@@ -8,14 +8,14 @@ def main():
    xi=15.0
    eps=20.0
    kappa=0.5
-   fct=2 #1 Gaussian, 2 exponential
+   fct=1 #1 Gaussian, 2 exponential
    psdf=np.zeros((lx,lz),dtype=np.complex128)
    np.random.seed(43)
    if fct==1:
-      rand=gauss(lx,lz,xi,xi_z,eps)
+      rand=gauss(lx,lz,xi,eps)
       label="Gaussian random field"
    if fct==2:
-      rand=exponential(lx,lz,xi,xi_z,eps)
+      rand=exponential(lx,lz,xi,eps)
       label="Exponential random field"
 
    im=plt.imshow(rand, cmap=plt.cm.jet)
