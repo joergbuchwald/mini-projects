@@ -10,7 +10,6 @@ def main():
    kappa=0.5
    fct=2 #1 Gaussian, 2 exponential
    psdf=np.zeros((lx,lz),dtype=np.complex128)
-   Rand=np.zeros((lx,lz),dtype=np.complex128)
    np.random.seed(43)
    if fct==1:
       rand=gauss(lx,lz,xi,xi_z,eps)
