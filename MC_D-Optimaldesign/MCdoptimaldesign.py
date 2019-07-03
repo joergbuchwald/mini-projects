@@ -6,8 +6,9 @@ def doptimal(df,size,N):
     X=np.array([full[0]])
     design=[0]
     for i in np.arange(1,size):
-        X=np.append(X,[full[i]],axis=0)
-        design.append(i)
+        random=np.random.randint(len(full))
+        X=np.append(X,[full[random]],axis=0)
+        design.append(random)
     X=np.c_[  np.ones(size),X ]
     Xnew=X.copy()
     H=np.dot(X.transpose(),X)
