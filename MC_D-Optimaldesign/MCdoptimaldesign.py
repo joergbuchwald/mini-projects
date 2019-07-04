@@ -35,5 +35,6 @@ def doptimal(df,size,N):
             print(i,H_det)
     return np.delete(X,0,1)
 
-#print(X)
-#print(design)
+if __name__=='__main__':
+    A=doptimal(15,16,1.e8)
+
