@@ -1,0 +1,4267 @@
+</isotopeList>
+<isotopeList id="K">
+
+<isotope id="K32" number="32" elementType="K">
+<scalar dictRef="bo:protonDecay">2.52</scalar>
+<scalar dictRef="bo:protonDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="K33" number="33" elementType="K">
+<scalar dictRef="bo:spin">3/2+</scalar>
+<scalar dictRef="bo:protonDecay">1.954</scalar>
+<scalar dictRef="bo:protonDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="K34" number="34" elementType="K">
+<scalar dictRef="bo:spin">1+</scalar>
+<scalar dictRef="bo:protonDecay">0.87506</scalar>
+<scalar dictRef="bo:protonDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="K35" number="35" elementType="K">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.178</scalar>
+<scalar dictRef="bo:spin">3/2+</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">99.63</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">0.37</scalar>
+</isotope>
+
+<isotope id="K36" number="36" elementType="K">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.342</scalar>
+<scalar dictRef="bo:spin">2+</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">99.95</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">0.05</scalar>
+<scalar dictRef="bo:ecalphaDecay"></scalar>
+<scalar dictRef="bo:ecalphaDecayLikeliness" units="bo:percentage">0.0034</scalar>
+</isotope>
+
+<isotope id="K37" number="37" elementType="K">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.226</scalar>
+<scalar dictRef="bo:spin">3/2+</scalar>
+<scalar dictRef="bo:ecDecay">6.148</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="K38" number="38" elementType="K">
+<scalar dictRef="bo:halfLife" units="siUnits:s">458.16</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+<scalar dictRef="bo:ecDecay">5.914</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="K38m1" number="38m1" elementType="K">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.9242999999999999</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">6.045</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="K38m2" number="38m2" elementType="K">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2.2e-05</scalar>
+<scalar dictRef="bo:spin">7+</scalar>
+</isotope>
+
+<isotope id="K39" number="39" elementType="K">
+<scalar dictRef="bo:spin">3/2+</scalar>
+</isotope>
+
+<isotope id="K40" number="40" elementType="K">
+<scalar dictRef="bo:halfLife" units="siUnits:s">3.9356928e+16</scalar>
+<scalar dictRef="bo:spin">4-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">89.28</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">10.72</scalar>
+</isotope>
+
+<isotope id="K40m1" number="40m1" elementType="K">
+<scalar dictRef="bo:halfLife" units="siUnits:s">3.36e-07</scalar>
+<scalar dictRef="bo:spin">0</scalar>
+</isotope>
+
+<isotope id="K41" number="41" elementType="K">
+<scalar dictRef="bo:spin">3/2+</scalar>
+</isotope>
+
+<isotope id="K42" number="42" elementType="K">
+<scalar dictRef="bo:halfLife" units="siUnits:s">44355.6</scalar>
+<scalar dictRef="bo:spin">2-</scalar>
+<scalar dictRef="bo:betaminusDecay">3.525</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="K43" number="43" elementType="K">
+<scalar dictRef="bo:halfLife" units="siUnits:s">80280.0</scalar>
+<scalar dictRef="bo:spin">3/2+</scalar>
+<scalar dictRef="bo:betaminusDecay">1.833</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="K44" number="44" elementType="K">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1327.8</scalar>
+<scalar dictRef="bo:spin">2-</scalar>
+<scalar dictRef="bo:betaminusDecay">5.687</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="K45" number="45" elementType="K">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1068.6</scalar>
+<scalar dictRef="bo:spin">3/2+</scalar>
+<scalar dictRef="bo:betaminusDecay">4.197</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="K46" number="46" elementType="K">
+<scalar dictRef="bo:halfLife" units="siUnits:s">105</scalar>
+<scalar dictRef="bo:spin">2-</scalar>
+<scalar dictRef="bo:betaminusDecay">7.725</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="K47" number="47" elementType="K">
+<scalar dictRef="bo:halfLife" units="siUnits:s">17.5</scalar>
+<scalar dictRef="bo:spin">1/2+</scalar>
+<scalar dictRef="bo:betaminusDecay">6.632</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="K48" number="48" elementType="K">
+<scalar dictRef="bo:halfLife" units="siUnits:s">6.8</scalar>
+<scalar dictRef="bo:spin">2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">98.86</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">1.14</scalar>
+</isotope>
+
+<isotope id="K49" number="49" elementType="K">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.26</scalar>
+<scalar dictRef="bo:spin">3/2+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">14</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">86</scalar>
+</isotope>
+
+<isotope id="K50" number="50" elementType="K">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.472</scalar>
+<scalar dictRef="bo:spin">2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">71</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">29</scalar>
+</isotope>
+
+<isotope id="K51" number="51" elementType="K">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.365</scalar>
+<scalar dictRef="bo:spin">3/2+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">53</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">47</scalar>
+</isotope>
+
+<isotope id="K52" number="52" elementType="K">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.118</scalar>
+<scalar dictRef="bo:spin">2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">36</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">64</scalar>
+</isotope>
+
+<isotope id="K53" number="53" elementType="K">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.03</scalar>
+<scalar dictRef="bo:spin">3/2+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">16</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">67</scalar>
+<scalar dictRef="bo:betaminus2neutronDecay"></scalar>
+<scalar dictRef="bo:betaminus2neutronDecayLikeliness" units="bo:percentage">17</scalar>
+</isotope>
+
+<isotope id="K54" number="54" elementType="K">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.01</scalar>
+<scalar dictRef="bo:spin">2-</scalar>
+</isotope>
+
+<isotope id="K55" number="55" elementType="K">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.003</scalar>
+<scalar dictRef="bo:spin">3/2+</scalar>
+</isotope>
+
+<isotope id="K56" number="56" elementType="K">
+<scalar dictRef="bo:betaminusDecay">21.825</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+</isotopeList>
+<isotopeList id="Ca">
+
+<isotope id="Ca34" number="34" elementType="Ca">
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:protonDecay">1.474</scalar>
+<scalar dictRef="bo:protonDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ca35" number="35" elementType="Ca">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.0257</scalar>
+<scalar dictRef="bo:spin">3/2+</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">95.9</scalar>
+<scalar dictRef="bo:ec2protonDecay"></scalar>
+<scalar dictRef="bo:ec2protonDecayLikeliness" units="bo:percentage">4.1</scalar>
+</isotope>
+
+<isotope id="Ca36" number="36" elementType="Ca">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.102</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">45.7</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">54.3</scalar>
+</isotope>
+
+<isotope id="Ca37" number="37" elementType="Ca">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.18109999999999998</scalar>
+<scalar dictRef="bo:spin">3/2+</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">18.9</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">82.1</scalar>
+</isotope>
+
+<isotope id="Ca38" number="38" elementType="Ca">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.44</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">6.742</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ca39" number="39" elementType="Ca">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.8596</scalar>
+<scalar dictRef="bo:spin">3/2+</scalar>
+<scalar dictRef="bo:ecDecay">6.525</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ca40" number="40" elementType="Ca">
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:2ecDecay">0.19351</scalar>
+<scalar dictRef="bo:2ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ca41" number="41" elementType="Ca">
+<scalar dictRef="bo:halfLife" units="siUnits:s">3216672000000.0</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:ecDecay">0.422</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ca42" number="42" elementType="Ca">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Ca43" number="43" elementType="Ca">
+<scalar dictRef="bo:spin">7/2-</scalar>
+</isotope>
+
+<isotope id="Ca44" number="44" elementType="Ca">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Ca45" number="45" elementType="Ca">
+<scalar dictRef="bo:halfLife" units="siUnits:s">14049504.0</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">0.25902</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ca46" number="46" elementType="Ca">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Ca47" number="47" elementType="Ca">
+<scalar dictRef="bo:halfLife" units="siUnits:s">391910.39999999997</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">1.992</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ca48" number="48" elementType="Ca">
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">25</scalar>
+</isotope>
+
+<isotope id="Ca49" number="49" elementType="Ca">
+<scalar dictRef="bo:halfLife" units="siUnits:s">523.08</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">5.261</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ca50" number="50" elementType="Ca">
+<scalar dictRef="bo:halfLife" units="siUnits:s">13.9</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">4.959</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ca51" number="51" elementType="Ca">
+<scalar dictRef="bo:halfLife" units="siUnits:s">10</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">6.89</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ca52" number="52" elementType="Ca">
+<scalar dictRef="bo:halfLife" units="siUnits:s">4.6</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">98</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">2</scalar>
+</isotope>
+
+<isotope id="Ca53" number="53" elementType="Ca">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.09</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">70</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">30</scalar>
+</isotope>
+
+<isotope id="Ca54" number="54" elementType="Ca">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.086</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">9.442</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ca55" number="55" elementType="Ca">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.022</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">11.625</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ca56" number="56" elementType="Ca">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.011</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Ca57" number="57" elementType="Ca">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.005</scalar>
+</isotope>
+
+<isotope id="Ca58" number="58" elementType="Ca">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+</isotopeList>
+<isotopeList id="Sc">
+
+<isotope id="Sc36" number="36" elementType="Sc">
+<scalar dictRef="bo:protonDecay">3.274</scalar>
+<scalar dictRef="bo:protonDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Sc37" number="37" elementType="Sc">
+<scalar dictRef="bo:protonDecay">2.646</scalar>
+<scalar dictRef="bo:protonDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Sc38" number="38" elementType="Sc">
+<scalar dictRef="bo:protonDecay">1.301</scalar>
+<scalar dictRef="bo:protonDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Sc39" number="39" elementType="Sc">
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:protonDecay">0.59685</scalar>
+<scalar dictRef="bo:protonDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Sc40" number="40" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.18230000000000002</scalar>
+<scalar dictRef="bo:spin">4-</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">99.54</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">0.02</scalar>
+<scalar dictRef="bo:ecalphaDecay"></scalar>
+<scalar dictRef="bo:ecalphaDecayLikeliness" units="bo:percentage">0.44</scalar>
+</isotope>
+
+<isotope id="Sc41" number="41" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.5962999999999999</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:ecDecay">6.496</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Sc42" number="42" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.6812999999999999</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">6.426</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Sc42m1" number="42m1" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">61.7</scalar>
+<scalar dictRef="bo:spin">7+</scalar>
+<scalar dictRef="bo:ecDecay">7.043</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Sc43" number="43" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">14007.6</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:ecDecay">2.221</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Sc43m1" number="43m1" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.000438</scalar>
+<scalar dictRef="bo:spin">2/3+</scalar>
+</isotope>
+
+<isotope id="Sc43m2" number="43m2" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">4.7e-07</scalar>
+<scalar dictRef="bo:spin">19/2-</scalar>
+</isotope>
+
+<isotope id="Sc44" number="44" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">14292.0</scalar>
+<scalar dictRef="bo:spin">2+</scalar>
+<scalar dictRef="bo:ecDecay">3.653</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Sc44m1" number="44m1" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">210996.0</scalar>
+<scalar dictRef="bo:spin">6+</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">1.2</scalar>
+</isotope>
+
+<isotope id="Sc44m2" number="44m2" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.54e-07</scalar>
+<scalar dictRef="bo:spin">1-</scalar>
+</isotope>
+
+<isotope id="Sc44m3" number="44m3" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">5.04e-05</scalar>
+<scalar dictRef="bo:spin">0</scalar>
+</isotope>
+
+<isotope id="Sc45" number="45" elementType="Sc">
+<scalar dictRef="bo:spin">7/2-</scalar>
+</isotope>
+
+<isotope id="Sc45m1" number="45m1" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.318</scalar>
+<scalar dictRef="bo:spin">3/2+</scalar>
+</isotope>
+
+<isotope id="Sc46" number="46" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">7239456.0</scalar>
+<scalar dictRef="bo:spin">4+</scalar>
+<scalar dictRef="bo:betaminusDecay">2.367</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Sc46m1" number="46m1" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">18.75</scalar>
+<scalar dictRef="bo:spin">1-</scalar>
+</isotope>
+
+<isotope id="Sc46m2" number="46m2" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">9.4e-06</scalar>
+<scalar dictRef="bo:spin">6+</scalar>
+</isotope>
+
+<isotope id="Sc47" number="47" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">289370.88</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">0.60073</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Sc47m1" number="47m1" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2.72e-08</scalar>
+<scalar dictRef="bo:spin">3/2+</scalar>
+</isotope>
+
+<isotope id="Sc48" number="48" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">157212.0</scalar>
+<scalar dictRef="bo:spin">6+</scalar>
+<scalar dictRef="bo:betaminusDecay">3.988</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Sc49" number="49" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">3430.8</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">2.002</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Sc50" number="50" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">102.5</scalar>
+<scalar dictRef="bo:spin">5+</scalar>
+<scalar dictRef="bo:betaminusDecay">6.883</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Sc50m1" number="50m1" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.35</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">2</scalar>
+</isotope>
+
+<isotope id="Sc51" number="51" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">12.4</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">6.503</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Sc52" number="52" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">8.2</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+<scalar dictRef="bo:betaminusDecay">9.303</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Sc53" number="53" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2.4</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">8.719</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Sc54" number="54" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.526</scalar>
+<scalar dictRef="bo:spin">4+</scalar>
+<scalar dictRef="bo:betaminusDecay">11.377</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Sc54m1" number="54m1" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">7e-06</scalar>
+<scalar dictRef="bo:spin">5+</scalar>
+</isotope>
+
+<isotope id="Sc55" number="55" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.096</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">83</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">17</scalar>
+</isotope>
+
+<isotope id="Sc56" number="56" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.026</scalar>
+<scalar dictRef="bo:spin">7+</scalar>
+</isotope>
+
+<isotope id="Sc57" number="57" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.022</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+</isotope>
+
+<isotope id="Sc58" number="58" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.012</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+</isotope>
+
+<isotope id="Sc59" number="59" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.01</scalar>
+</isotope>
+
+<isotope id="Sc60" number="60" elementType="Sc">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.003</scalar>
+</isotope>
+
+<isotope id="Sc61" number="61" elementType="Sc">
+</isotope>
+</isotopeList>
+<isotopeList id="Ti">
+
+<isotope id="Ti38" number="38" elementType="Ti">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1e-07</scalar>
+<scalar dictRef="bo:spin">0</scalar>
+</isotope>
+
+<isotope id="Ti39" number="39" elementType="Ti">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.031</scalar>
+<scalar dictRef="bo:spin">3/2+</scalar>
+<scalar dictRef="bo:ecprotonDecay">16.968</scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ti40" number="40" elementType="Ti">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.052399999999999995</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecprotonDecay">11.145</scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ti41" number="41" elementType="Ti">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.0804</scalar>
+<scalar dictRef="bo:spin">3/2+</scalar>
+<scalar dictRef="bo:ecprotonDecay">11.86</scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ti42" number="42" elementType="Ti">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.199</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">7.017</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ti43" number="43" elementType="Ti">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.509</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:ecDecay">6.867</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ti43m1" number="43m1" elementType="Ti">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.26e-05</scalar>
+<scalar dictRef="bo:spin">3/2+</scalar>
+</isotope>
+
+<isotope id="Ti43m2" number="43m2" elementType="Ti">
+<scalar dictRef="bo:halfLife" units="siUnits:s">5.6e-07</scalar>
+<scalar dictRef="bo:spin">9/2-</scalar>
+</isotope>
+
+<isotope id="Ti44" number="44" elementType="Ti">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1892160000.0</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">0.26739</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ti45" number="45" elementType="Ti">
+<scalar dictRef="bo:halfLife" units="siUnits:s">11088.0</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:ecDecay">2.062</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ti46" number="46" elementType="Ti">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Ti47" number="47" elementType="Ti">
+<scalar dictRef="bo:spin">5/2-</scalar>
+</isotope>
+
+<isotope id="Ti48" number="48" elementType="Ti">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Ti49" number="49" elementType="Ti">
+<scalar dictRef="bo:spin">7/2-</scalar>
+</isotope>
+
+<isotope id="Ti50" number="50" elementType="Ti">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Ti51" number="51" elementType="Ti">
+<scalar dictRef="bo:halfLife" units="siUnits:s">345.59999999999997</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">2.472</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ti52" number="52" elementType="Ti">
+<scalar dictRef="bo:halfLife" units="siUnits:s">102.0</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">1.975</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ti53" number="53" elementType="Ti">
+<scalar dictRef="bo:halfLife" units="siUnits:s">32.7</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">5.024</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ti54" number="54" elementType="Ti">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.5</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">4.295</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ti55" number="55" elementType="Ti">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.3</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">7.48</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ti56" number="56" elementType="Ti">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.2</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">0.06</scalar>
+</isotope>
+
+<isotope id="Ti57" number="57" elementType="Ti">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.098</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">0.04</scalar>
+</isotope>
+
+<isotope id="Ti58" number="58" elementType="Ti">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.057</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Ti59" number="59" elementType="Ti">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.0275</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">12.184</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ti60" number="60" elementType="Ti">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.0224</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">10.917</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ti61" number="61" elementType="Ti">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.015</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+</isotope>
+
+<isotope id="Ti62" number="62" elementType="Ti">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.01</scalar>
+<scalar dictRef="bo:spin">0</scalar>
+</isotope>
+
+<isotope id="Ti63" number="63" elementType="Ti">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.003</scalar>
+</isotope>
+</isotopeList>
+<isotopeList id="V">
+
+<isotope id="V40" number="40" elementType="V">
+<scalar dictRef="bo:protonDecay">2.399</scalar>
+<scalar dictRef="bo:protonDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="V41" number="41" elementType="V">
+<scalar dictRef="bo:protonDecay">1.756</scalar>
+<scalar dictRef="bo:protonDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="V42" number="42" elementType="V">
+<scalar dictRef="bo:protonDecay">0.78895</scalar>
+<scalar dictRef="bo:protonDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="V43" number="43" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.0793</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:betaplusDecay">11.405</scalar>
+<scalar dictRef="bo:betaplusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="V44" number="44" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.111</scalar>
+<scalar dictRef="bo:spin">2+</scalar>
+</isotope>
+
+<isotope id="V44m1" number="44m1" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.15</scalar>
+<scalar dictRef="bo:spin">6+</scalar>
+<scalar dictRef="bo:betaplusDecay">12.702</scalar>
+<scalar dictRef="bo:betaplusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="V45" number="45" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.547</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:betaplusDecay">7.129</scalar>
+<scalar dictRef="bo:betaplusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="V46" number="46" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.4225</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaplusDecay">7.052</scalar>
+<scalar dictRef="bo:betaplusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="V46m1" number="46m1" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.00102</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+</isotope>
+
+<isotope id="V47" number="47" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1956.0</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaplusDecay">2.931</scalar>
+<scalar dictRef="bo:betaplusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="V48" number="48" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1380110.4</scalar>
+<scalar dictRef="bo:spin">4+</scalar>
+<scalar dictRef="bo:ecDecay">4.0125</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="V49" number="49" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">28512000.0</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:ecDecay">0.60186</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="V50" number="50" elementType="V">
+<scalar dictRef="bo:spin">6+</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">83</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">17</scalar>
+</isotope>
+
+<isotope id="V51" number="51" elementType="V">
+<scalar dictRef="bo:spin">7/2-</scalar>
+</isotope>
+
+<isotope id="V52" number="52" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">224.57999999999998</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+<scalar dictRef="bo:betaminusDecay">3.975</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="V53" number="53" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">92.58</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">3.436</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="V54" number="54" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">49.8</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+<scalar dictRef="bo:betaminusDecay">7.042</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="V54m1" number="54m1" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">9e-07</scalar>
+<scalar dictRef="bo:spin">5+</scalar>
+</isotope>
+
+<isotope id="V55" number="55" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">6.54</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">5.963</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="V56" number="56" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.216</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">0.06</scalar>
+</isotope>
+
+<isotope id="V57" number="57" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.32</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">0.04</scalar>
+</isotope>
+
+<isotope id="V58" number="58" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.191</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+</isotope>
+
+<isotope id="V59" number="59" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.097</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+</isotope>
+
+<isotope id="V60" number="60" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.068</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">0.03</scalar>
+</isotope>
+
+<isotope id="V60m1" number="60m1" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.04</scalar>
+<scalar dictRef="bo:spin">1+</scalar>
+<scalar dictRef="bo:betaminusDecay">13.998</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="V61" number="61" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.0526</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+</isotope>
+
+<isotope id="V62" number="62" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.0335</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+</isotope>
+
+<isotope id="V63" number="63" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.0192</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+</isotope>
+
+<isotope id="V64" number="64" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.019</scalar>
+<scalar dictRef="bo:betaminusDecay">17.289</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="V65" number="65" elementType="V">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.01</scalar>
+</isotope>
+
+<isotope id="V66" number="66" elementType="V">
+</isotope>
+</isotopeList>
+<isotopeList id="Cr">
+
+<isotope id="Cr42" number="42" elementType="Cr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.013300000000000001</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">5.6</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">94.4</scalar>
+</isotope>
+
+<isotope id="Cr43" number="43" elementType="Cr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.0206</scalar>
+<scalar dictRef="bo:spin">3/2+</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">11.82</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">81</scalar>
+<scalar dictRef="bo:ec2protonDecay"></scalar>
+<scalar dictRef="bo:ec2protonDecayLikeliness" units="bo:percentage">7.1</scalar>
+</isotope>
+
+<isotope id="Cr44" number="44" elementType="Cr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.0428</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">86</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">14</scalar>
+</isotope>
+
+<isotope id="Cr45" number="45" elementType="Cr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.060899999999999996</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:betaplusDecay"></scalar>
+<scalar dictRef="bo:betaplusDecayLikeliness" units="bo:percentage">65.6</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">34.4</scalar>
+</isotope>
+
+<isotope id="Cr45m1" number="45m1" elementType="Cr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.001</scalar>
+<scalar dictRef="bo:spin">3/2+</scalar>
+<scalar dictRef="bo:ecprotonDecay">11.345</scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cr46" number="46" elementType="Cr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.26</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaplusDecay">7.601</scalar>
+<scalar dictRef="bo:betaplusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cr47" number="47" elementType="Cr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.5</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaplusDecay"></scalar>
+<scalar dictRef="bo:betaplusDecayLikeliness" units="bo:percentage">100</scalar>
+</isotope>
+
+<isotope id="Cr48" number="48" elementType="Cr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">77616.0</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">1.655</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cr49" number="49" elementType="Cr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2538.0</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:betaplusDecay">2.628</scalar>
+<scalar dictRef="bo:betaplusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cr50" number="50" elementType="Cr">
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:2ecDecay">1.169</scalar>
+<scalar dictRef="bo:2ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cr51" number="51" elementType="Cr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2393496.0</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:ecDecay">0.753</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cr52" number="52" elementType="Cr">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Cr53" number="53" elementType="Cr">
+<scalar dictRef="bo:spin">3/2-</scalar>
+</isotope>
+
+<isotope id="Cr54" number="54" elementType="Cr">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Cr55" number="55" elementType="Cr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">209.82</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">2.603</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cr56" number="56" elementType="Cr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">356.40000000000003</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">1.63</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cr57" number="57" elementType="Cr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">21.1</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">4.962</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cr58" number="58" elementType="Cr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">7</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">3.99</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cr59" number="59" elementType="Cr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.05</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">7.637</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cr59m1" number="59m1" elementType="Cr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">9.6e-05</scalar>
+<scalar dictRef="bo:spin">9/2+</scalar>
+</isotope>
+
+<isotope id="Cr60" number="60" elementType="Cr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.49</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">6.468</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cr61" number="61" elementType="Cr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.243</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">9.285</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cr62" number="62" elementType="Cr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.206</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">99</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">1</scalar>
+</isotope>
+
+<isotope id="Cr63" number="63" elementType="Cr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.129</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">98.6</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">1.4</scalar>
+</isotope>
+
+<isotope id="Cr64" number="64" elementType="Cr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.042</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">9.53</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cr65" number="65" elementType="Cr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.028</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">12.985</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cr66" number="66" elementType="Cr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.023</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">12.215</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cr67" number="67" elementType="Cr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.05</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+</isotope>
+
+<isotope id="Cr68" number="68" elementType="Cr">
+<scalar dictRef="bo:spin">0</scalar>
+</isotope>
+</isotopeList>
+<isotopeList id="Mn">
+
+<isotope id="Mn44" number="44" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1e-08</scalar>
+<scalar dictRef="bo:spin">2-</scalar>
+</isotope>
+
+<isotope id="Mn45" number="45" elementType="Mn">
+</isotope>
+
+<isotope id="Mn46" number="46" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.0362</scalar>
+<scalar dictRef="bo:spin">4+</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">43</scalar>
+<scalar dictRef="bo:betaplusprotonDecay"></scalar>
+<scalar dictRef="bo:betaplusprotonDecayLikeliness" units="bo:percentage">57</scalar>
+</isotope>
+
+<isotope id="Mn46m1" number="46m1" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.001</scalar>
+<scalar dictRef="bo:spin">1-</scalar>
+</isotope>
+
+<isotope id="Mn47" number="47" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.088</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+</isotope>
+
+<isotope id="Mn48" number="48" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.1581</scalar>
+<scalar dictRef="bo:spin">4+</scalar>
+<scalar dictRef="bo:betaplusDecay"></scalar>
+<scalar dictRef="bo:betaplusDecayLikeliness" units="bo:percentage">99.72</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">0.28</scalar>
+</isotope>
+
+<isotope id="Mn49" number="49" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.382</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:betaplusDecay">7.696</scalar>
+<scalar dictRef="bo:betaplusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Mn50" number="50" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.28319</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">7.635</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Mn50m1" number="50m1" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">105.0</scalar>
+<scalar dictRef="bo:spin">5+</scalar>
+<scalar dictRef="bo:ecDecay">7.864</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Mn51" number="51" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2772.0</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:ecDecay">3.208</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Mn52" number="52" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">483062.4</scalar>
+<scalar dictRef="bo:spin">6+</scalar>
+<scalar dictRef="bo:ecDecay">4.711</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Mn52m1" number="52m1" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1266.0</scalar>
+<scalar dictRef="bo:spin">2+</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">98.25</scalar>
+</isotope>
+
+<isotope id="Mn53" number="53" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">117944640000000.0</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:ecDecay">0.59685</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Mn54" number="54" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">26967168.0</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+</isotope>
+
+<isotope id="Mn55" number="55" elementType="Mn">
+<scalar dictRef="bo:spin">5/2-</scalar>
+</isotope>
+
+<isotope id="Mn56" number="56" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">9284.039999999999</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+<scalar dictRef="bo:betaminusDecay">3.696</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Mn57" number="57" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">85.4</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">2.695</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Mn58" number="58" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">3</scalar>
+<scalar dictRef="bo:spin">1+</scalar>
+<scalar dictRef="bo:betaminusDecay">6.327</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Mn58m1" number="58m1" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">65.4</scalar>
+<scalar dictRef="bo:spin">4+</scalar>
+</isotope>
+
+<isotope id="Mn59" number="59" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">4.59</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">5.139</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Mn60" number="60" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.28</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">8.444</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Mn60m1" number="60m1" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.77</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">88.5</scalar>
+</isotope>
+
+<isotope id="Mn61" number="61" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.67</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">7.178</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Mn62" number="62" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.671</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+<scalar dictRef="bo:betaminusDecay">10.394</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Mn62m1" number="62m1" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.092</scalar>
+<scalar dictRef="bo:spin">1+</scalar>
+</isotope>
+
+<isotope id="Mn63" number="63" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.275</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">8.749</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Mn64" number="64" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.09</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">67</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">33</scalar>
+</isotope>
+
+<isotope id="Mn64m1" number="64m1" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.0005</scalar>
+<scalar dictRef="bo:spin">4+</scalar>
+</isotope>
+
+<isotope id="Mn65" number="65" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.084</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">93.08</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">6.92</scalar>
+</isotope>
+
+<isotope id="Mn66" number="66" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.065</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">89.12</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">9.88</scalar>
+</isotope>
+
+<isotope id="Mn67" number="67" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.051</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+</isotope>
+
+<isotope id="Mn68" number="68" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.028</scalar>
+</isotope>
+
+<isotope id="Mn69" number="69" elementType="Mn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.018</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">14.522</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Mn70" number="70" elementType="Mn">
+</isotope>
+
+<isotope id="Mn71" number="71" elementType="Mn">
+</isotope>
+</isotopeList>
+<isotopeList id="Fe">
+
+<isotope id="Fe45" number="45" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.00189</scalar>
+<scalar dictRef="bo:spin">3/2+</scalar>
+<scalar dictRef="bo:2protonDecay"></scalar>
+<scalar dictRef="bo:2protonDecayLikeliness" units="bo:percentage">70</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">18.9</scalar>
+<scalar dictRef="bo:ec2protonDecay"></scalar>
+<scalar dictRef="bo:ec2protonDecayLikeliness" units="bo:percentage">7.8</scalar>
+<scalar dictRef="bo:ec3protonDecay"></scalar>
+<scalar dictRef="bo:ec3protonDecayLikeliness" units="bo:percentage">3.3</scalar>
+</isotope>
+
+<isotope id="Fe46" number="46" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.013</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">21.3</scalar>
+<scalar dictRef="bo:betaplusprotonDecay"></scalar>
+<scalar dictRef="bo:betaplusprotonDecayLikeliness" units="bo:percentage">78.7</scalar>
+</isotope>
+
+<isotope id="Fe47" number="47" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.0219</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">88.4</scalar>
+</isotope>
+
+<isotope id="Fe48" number="48" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.0453</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaplusDecay"></scalar>
+<scalar dictRef="bo:betaplusDecayLikeliness" units="bo:percentage">96.4</scalar>
+<scalar dictRef="bo:betaplusprotonDecay"></scalar>
+<scalar dictRef="bo:betaplusprotonDecayLikeliness" units="bo:percentage">3.6</scalar>
+</isotope>
+
+<isotope id="Fe49" number="49" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.06470000000000001</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:betaplusDecay"></scalar>
+<scalar dictRef="bo:betaplusDecayLikeliness" units="bo:percentage">44.3</scalar>
+<scalar dictRef="bo:betaplusprotonDecay"></scalar>
+<scalar dictRef="bo:betaplusprotonDecayLikeliness" units="bo:percentage">56.7</scalar>
+</isotope>
+
+<isotope id="Fe50" number="50" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.155</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">8.139</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Fe51" number="51" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.305</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:ecDecay">8.041</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Fe52" number="52" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">29790.0</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">2.375</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Fe52m1" number="52m1" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">45.9</scalar>
+<scalar dictRef="bo:spin">12+</scalar>
+</isotope>
+
+<isotope id="Fe53" number="53" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">510.59999999999997</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:ecDecay">3.742</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Fe53m1" number="53m1" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">152.4</scalar>
+<scalar dictRef="bo:spin">19/2-</scalar>
+</isotope>
+
+<isotope id="Fe54" number="54" elementType="Fe">
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:2ecDecay">0.67983</scalar>
+<scalar dictRef="bo:2ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Fe54m1" number="54m1" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">3.64e-08</scalar>
+<scalar dictRef="bo:spin">10+</scalar>
+</isotope>
+
+<isotope id="Fe55" number="55" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">86408640.0</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:ecDecay">0.23109</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Fe56" number="56" elementType="Fe">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Fe57" number="57" elementType="Fe">
+<scalar dictRef="bo:spin">1/2-</scalar>
+</isotope>
+
+<isotope id="Fe58" number="58" elementType="Fe">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Fe59" number="59" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">3844368.0</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">1.565</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Fe60" number="60" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">82624320000000.0</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">0.237</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Fe61" number="61" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">358.8</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">3.977</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Fe61m1" number="61m1" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2.5e-07</scalar>
+<scalar dictRef="bo:spin">9/2+</scalar>
+</isotope>
+
+<isotope id="Fe62" number="62" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">68</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">2.546</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Fe63" number="63" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">6.1</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">6.216</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Fe64" number="64" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">4.822</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Fe65" number="65" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.81</scalar>
+<scalar dictRef="bo:spin">5/2+</scalar>
+<scalar dictRef="bo:betaminusDecay">7.964</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Fe65m1" number="65m1" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.12</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+</isotope>
+
+<isotope id="Fe66" number="66" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.44</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">6.341</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Fe67" number="67" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.4</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">9.25</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Fe67m1" number="67m1" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">7.5e-05</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+</isotope>
+
+<isotope id="Fe68" number="68" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.18</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">8.095</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Fe69" number="69" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.11</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">11.113</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Fe70" number="70" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.071</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">10.61</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Fe71" number="71" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.028</scalar>
+<scalar dictRef="bo:spin">7/2+</scalar>
+</isotope>
+
+<isotope id="Fe72" number="72" elementType="Fe">
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">72.4</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">27.6</scalar>
+</isotope>
+
+<isotope id="Fe73" number="73" elementType="Fe">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.0129</scalar>
+</isotope>
+
+<isotope id="Fe74" number="74" elementType="Fe">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+</isotopeList>
+<isotopeList id="Co">
+
+<isotope id="Co47" number="47" elementType="Co">
+<scalar dictRef="bo:spin">7/2-</scalar>
+</isotope>
+
+<isotope id="Co48" number="48" elementType="Co">
+<scalar dictRef="bo:spin">6+</scalar>
+</isotope>
+
+<isotope id="Co49" number="49" elementType="Co">
+<scalar dictRef="bo:spin">7/2-</scalar>
+</isotope>
+
+<isotope id="Co50" number="50" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.038799999999999994</scalar>
+<scalar dictRef="bo:spin">6+</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">29.5</scalar>
+<scalar dictRef="bo:betaplusprotonDecay"></scalar>
+<scalar dictRef="bo:betaplusprotonDecayLikeliness" units="bo:percentage">70.5</scalar>
+</isotope>
+
+<isotope id="Co51" number="51" elementType="Co">
+<scalar dictRef="bo:spin">7/2-</scalar>
+</isotope>
+
+<isotope id="Co52" number="52" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.115</scalar>
+<scalar dictRef="bo:spin">6+</scalar>
+<scalar dictRef="bo:ecDecay">14.342</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Co52m1" number="52m1" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.104</scalar>
+<scalar dictRef="bo:spin">2+</scalar>
+<scalar dictRef="bo:ecDecay">14.796</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Co53" number="53" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.24</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:ecDecay">8.288</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Co53m1" number="53m1" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.247</scalar>
+<scalar dictRef="bo:spin">19/2-</scalar>
+</isotope>
+
+<isotope id="Co54" number="54" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.19328</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">8.245</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Co54m1" number="54m1" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">88.8</scalar>
+<scalar dictRef="bo:spin">7+</scalar>
+<scalar dictRef="bo:ecDecay">8.442</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Co55" number="55" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">63108.00000000001</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:ecDecay">3.451</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Co56" number="56" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">6673190.4</scalar>
+<scalar dictRef="bo:spin">4+</scalar>
+<scalar dictRef="bo:ecDecay">4.567</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Co57" number="57" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">23478336.0</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:ecDecay">0.83623</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Co58" number="58" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">6122304.0</scalar>
+<scalar dictRef="bo:spin">2+</scalar>
+<scalar dictRef="bo:ecDecay">2.308</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Co58m1" number="58m1" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">32760.0</scalar>
+<scalar dictRef="bo:spin">5+</scalar>
+</isotope>
+
+<isotope id="Co58m2" number="58m2" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.04e-05</scalar>
+<scalar dictRef="bo:spin">4+</scalar>
+</isotope>
+
+<isotope id="Co59" number="59" elementType="Co">
+<scalar dictRef="bo:spin">7/2-</scalar>
+</isotope>
+
+<isotope id="Co60" number="60" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">166344192.0</scalar>
+<scalar dictRef="bo:spin">5+</scalar>
+<scalar dictRef="bo:betaminusDecay">2.823</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Co60m1" number="60m1" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">628.02</scalar>
+<scalar dictRef="bo:spin">2+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">0.24</scalar>
+</isotope>
+
+<isotope id="Co61" number="61" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">5940.0</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">1.324</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Co62" number="62" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">90.0</scalar>
+<scalar dictRef="bo:spin">2+</scalar>
+<scalar dictRef="bo:betaminusDecay">5.322</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Co62m1" number="62m1" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">834.6</scalar>
+<scalar dictRef="bo:spin">5+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">>99</scalar>
+</isotope>
+
+<isotope id="Co63" number="63" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">27.4</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">3.661</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Co64" number="64" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.3</scalar>
+<scalar dictRef="bo:spin">1+</scalar>
+<scalar dictRef="bo:betaminusDecay">7.307</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Co65" number="65" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.16</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100</scalar>
+</isotope>
+
+<isotope id="Co66" number="66" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.2</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+<scalar dictRef="bo:betaminusDecay">9.598</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Co66m1" number="66m1" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.0012</scalar>
+<scalar dictRef="bo:spin">5+</scalar>
+</isotope>
+
+<isotope id="Co66m2" number="66m2" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.001</scalar>
+<scalar dictRef="bo:spin">8-</scalar>
+</isotope>
+
+<isotope id="Co67" number="67" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.425</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">8.421</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Co68" number="68" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.199</scalar>
+<scalar dictRef="bo:spin">7-</scalar>
+<scalar dictRef="bo:betaminusDecay">11.542</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Co68m1" number="68m1" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.6</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+<scalar dictRef="bo:betaminusDecay">12.263</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Co69" number="69" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.229</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">9.808</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Co70" number="70" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.108</scalar>
+<scalar dictRef="bo:spin">6-</scalar>
+<scalar dictRef="bo:betaminusDecay">12.295</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Co70m1" number="70m1" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.5</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+<scalar dictRef="bo:betaminusDecay">13.771</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Co71" number="71" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.08</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">97.39</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">2.61</scalar>
+</isotope>
+
+<isotope id="Co72" number="72" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.0599</scalar>
+<scalar dictRef="bo:spin">7-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">95.2</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">4.8</scalar>
+</isotope>
+
+<isotope id="Co73" number="73" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.041</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">13.212</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Co74" number="74" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.025</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">15.994</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Co75" number="75" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.03</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">15.146</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Co76" number="76" elementType="Co">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.0217</scalar>
+</isotope>
+</isotopeList>
+<isotopeList id="Ni">
+
+<isotope id="Ni48" number="48" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.0021000000000000003</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Ni49" number="49" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.0075</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">17</scalar>
+<scalar dictRef="bo:betaplusprotonDecay"></scalar>
+<scalar dictRef="bo:betaplusprotonDecayLikeliness" units="bo:percentage">83</scalar>
+</isotope>
+
+<isotope id="Ni50" number="50" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.0185</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">13.3</scalar>
+<scalar dictRef="bo:betaplusprotonDecay"></scalar>
+<scalar dictRef="bo:betaplusprotonDecayLikeliness" units="bo:percentage">86.7</scalar>
+</isotope>
+
+<isotope id="Ni51" number="51" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.0238</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">12.8</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">87.2</scalar>
+</isotope>
+
+<isotope id="Ni52" number="52" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.040799999999999996</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">68.6</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">31.4</scalar>
+</isotope>
+
+<isotope id="Ni53" number="53" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.055200000000000006</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">76.6</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">23.4</scalar>
+</isotope>
+
+<isotope id="Ni54" number="54" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.104</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">8.786</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ni55" number="55" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.2047</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:ecDecay">8.694</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ni56" number="56" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">524880.0</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">2.133</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ni57" number="57" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">128160.0</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaplusDecay">3.262</scalar>
+<scalar dictRef="bo:betaplusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ni58" number="58" elementType="Ni">
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:2ecDecay">1.926</scalar>
+<scalar dictRef="bo:2ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ni59" number="59" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2396736000000.0</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:ecDecay">1.073</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ni60" number="60" elementType="Ni">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Ni61" number="61" elementType="Ni">
+<scalar dictRef="bo:spin">3/2-</scalar>
+</isotope>
+
+<isotope id="Ni62" number="62" elementType="Ni">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Ni63" number="63" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">3191443200.0</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">0.06698</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ni63m1" number="63m1" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.7e-06</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+</isotope>
+
+<isotope id="Ni64" number="64" elementType="Ni">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Ni65" number="65" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">9063.0</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">2.138</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ni65m1" number="65m1" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">6.9e-05</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+</isotope>
+
+<isotope id="Ni66" number="66" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">196560.0</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">0.25176</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ni67" number="67" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">21</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">3.576</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ni67m1" number="67m1" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.3300000000000001e-05</scalar>
+<scalar dictRef="bo:spin">9/2+</scalar>
+</isotope>
+
+<isotope id="Ni68" number="68" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">29</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">2.103</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ni68m1" number="68m1" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.00086</scalar>
+<scalar dictRef="bo:spin">5-</scalar>
+</isotope>
+
+<isotope id="Ni68m2" number="68m2" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2.76e-07</scalar>
+<scalar dictRef="bo:spin">0</scalar>
+</isotope>
+
+<isotope id="Ni69" number="69" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">11.2</scalar>
+<scalar dictRef="bo:spin">9/2+</scalar>
+<scalar dictRef="bo:betaminusDecay">5.756</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ni69m1" number="69m1" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">3.5</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+</isotope>
+
+<isotope id="Ni69m2" number="69m2" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">4.39e-07</scalar>
+<scalar dictRef="bo:spin">17/2-</scalar>
+</isotope>
+
+<isotope id="Ni70" number="70" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">6</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">3.763</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ni70m1" number="70m1" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2.32e-07</scalar>
+<scalar dictRef="bo:spin">8+</scalar>
+</isotope>
+
+<isotope id="Ni71" number="71" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2.56</scalar>
+<scalar dictRef="bo:spin">9/2+</scalar>
+<scalar dictRef="bo:betaminusDecay">7.305</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ni72" number="72" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.57</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">5.557</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ni73" number="73" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.84</scalar>
+<scalar dictRef="bo:spin">7/2+</scalar>
+<scalar dictRef="bo:betaminusDecay">8.879</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ni74" number="74" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.68</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">7.55</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ni75" number="75" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.344</scalar>
+<scalar dictRef="bo:spin">7/2+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">90</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">10</scalar>
+</isotope>
+
+<isotope id="Ni76" number="76" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.238</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Ni76m1" number="76m1" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">5.09e-07</scalar>
+<scalar dictRef="bo:spin">8+</scalar>
+</isotope>
+
+<isotope id="Ni77" number="77" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.128</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">70</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">30</scalar>
+</isotope>
+
+<isotope id="Ni78" number="78" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.11</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Ni79" number="79" elementType="Ni">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.043</scalar>
+</isotope>
+</isotopeList>
+<isotopeList id="Cu">
+
+<isotope id="Cu52" number="52" elementType="Cu">
+<scalar dictRef="bo:spin">3+</scalar>
+</isotope>
+
+<isotope id="Cu53" number="53" elementType="Cu">
+<scalar dictRef="bo:spin">3/2-</scalar>
+</isotope>
+
+<isotope id="Cu54" number="54" elementType="Cu">
+<scalar dictRef="bo:spin">3+</scalar>
+<scalar dictRef="bo:protonDecay">0.60078</scalar>
+<scalar dictRef="bo:protonDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cu55" number="55" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.027</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">85</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">15</scalar>
+</isotope>
+
+<isotope id="Cu56" number="56" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.093</scalar>
+<scalar dictRef="bo:spin">4+</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">99.6</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">0.4</scalar>
+</isotope>
+
+<isotope id="Cu57" number="57" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.1963</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaplusDecay">8.775</scalar>
+<scalar dictRef="bo:betaplusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cu58" number="58" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">3.204</scalar>
+<scalar dictRef="bo:spin">1+</scalar>
+<scalar dictRef="bo:ecDecay">8.561</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cu59" number="59" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">81.5</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:ecDecay">4.799</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cu60" number="60" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1422.0</scalar>
+<scalar dictRef="bo:spin">2+</scalar>
+<scalar dictRef="bo:ecDecay">6.128</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cu61" number="61" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">11998.800000000001</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:ecDecay">2.238</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cu62" number="62" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">580.38</scalar>
+<scalar dictRef="bo:spin">1+</scalar>
+<scalar dictRef="bo:ecDecay">3.959</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cu63" number="63" elementType="Cu">
+<scalar dictRef="bo:spin">3/2-</scalar>
+</isotope>
+
+<isotope id="Cu64" number="64" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">45723.6</scalar>
+<scalar dictRef="bo:spin">1+</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">61.5</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">38.5</scalar>
+</isotope>
+
+<isotope id="Cu65" number="65" elementType="Cu">
+<scalar dictRef="bo:spin">3/2-</scalar>
+</isotope>
+
+<isotope id="Cu66" number="66" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">307.2</scalar>
+<scalar dictRef="bo:spin">1+</scalar>
+<scalar dictRef="bo:betaminusDecay">2.641</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cu67" number="67" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">222588.0</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">0.56127</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cu67m1" number="67m1" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1e-07</scalar>
+<scalar dictRef="bo:spin">15/2+</scalar>
+</isotope>
+
+<isotope id="Cu68" number="68" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">30.9</scalar>
+<scalar dictRef="bo:spin">1+</scalar>
+<scalar dictRef="bo:betaminusDecay">4.44</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cu68m1" number="68m1" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">225.0</scalar>
+<scalar dictRef="bo:spin">6-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">16</scalar>
+</isotope>
+
+<isotope id="Cu69" number="69" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">171.0</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">2.681</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cu69m1" number="69m1" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">3.6e-07</scalar>
+<scalar dictRef="bo:spin">13/2+</scalar>
+</isotope>
+
+<isotope id="Cu70" number="70" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">44.5</scalar>
+<scalar dictRef="bo:spin">1+</scalar>
+<scalar dictRef="bo:betaminusDecay">6.588</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cu70m1" number="70m1" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">33</scalar>
+<scalar dictRef="bo:spin">4-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">52</scalar>
+</isotope>
+
+<isotope id="Cu70m2" number="70m2" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">6.6</scalar>
+<scalar dictRef="bo:spin">1+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">93.2</scalar>
+</isotope>
+
+<isotope id="Cu71" number="71" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">19.4</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">4.618</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cu71m1" number="71m1" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2.71e-07</scalar>
+<scalar dictRef="bo:spin">19/2-</scalar>
+</isotope>
+
+<isotope id="Cu72" number="72" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">6.63</scalar>
+<scalar dictRef="bo:spin">1+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100</scalar>
+</isotope>
+
+<isotope id="Cu72m1" number="72m1" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.8000000000000001e-06</scalar>
+<scalar dictRef="bo:spin">4-</scalar>
+</isotope>
+
+<isotope id="Cu73" number="73" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">4.2</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">6.606</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cu74" number="74" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.594</scalar>
+<scalar dictRef="bo:spin">1+</scalar>
+<scalar dictRef="bo:betaminusDecay">9.751</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cu75" number="75" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.222</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">96.5</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">3.5</scalar>
+</isotope>
+
+<isotope id="Cu76" number="76" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.637</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">97</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">3</scalar>
+</isotope>
+
+<isotope id="Cu76m1" number="76m1" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.27</scalar>
+<scalar dictRef="bo:spin">1+</scalar>
+<scalar dictRef="bo:betaminusDecay">11.427</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cu77" number="77" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.4681</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">69.7</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">30.3</scalar>
+</isotope>
+
+<isotope id="Cu78" number="78" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.335</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+</isotope>
+
+<isotope id="Cu79" number="79" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.188</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">45</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">55</scalar>
+</isotope>
+
+<isotope id="Cu80" number="80" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.17</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+<scalar dictRef="bo:betaminusDecay">15.218</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Cu81" number="81" elementType="Cu">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.0732</scalar>
+</isotope>
+
+<isotope id="Cu82" number="82" elementType="Cu">
+</isotope>
+</isotopeList>
+<isotopeList id="Zn">
+
+<isotope id="Zn54" number="54" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.00159</scalar>
+<scalar dictRef="bo:spin">0</scalar>
+<scalar dictRef="bo:2protonDecay"></scalar>
+<scalar dictRef="bo:2protonDecayLikeliness" units="bo:percentage">92</scalar>
+</isotope>
+
+<isotope id="Zn55" number="55" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.0198</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">9</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">91</scalar>
+</isotope>
+
+<isotope id="Zn56" number="56" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.03</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">14</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">86</scalar>
+</isotope>
+
+<isotope id="Zn57" number="57" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.038</scalar>
+<scalar dictRef="bo:spin">7/2-</scalar>
+<scalar dictRef="bo:betaplusDecay"></scalar>
+<scalar dictRef="bo:betaplusDecayLikeliness" units="bo:percentage">35</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">65</scalar>
+</isotope>
+
+<isotope id="Zn58" number="58" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.086</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">97</scalar>
+<scalar dictRef="bo:betaplusprotonDecay"></scalar>
+<scalar dictRef="bo:betaplusprotonDecayLikeliness" units="bo:percentage">3</scalar>
+</isotope>
+
+<isotope id="Zn59" number="59" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.182</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">99.9</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">0.1</scalar>
+</isotope>
+
+<isotope id="Zn60" number="60" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">142.79999999999998</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">4.171</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Zn61" number="61" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">89.1</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:ecDecay">5.635</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Zn61m1" number="61m1" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.4</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+</isotope>
+
+<isotope id="Zn61m2" number="61m2" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.14</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+</isotope>
+
+<isotope id="Zn61m3" number="61m3" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.1</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+</isotope>
+
+<isotope id="Zn62" number="62" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">33069.6</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">1.62</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Zn63" number="63" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2308.2</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:ecDecay">3.366</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Zn64" number="64" elementType="Zn">
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:2ecDecay">1.095</scalar>
+<scalar dictRef="bo:2ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Zn65" number="65" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">21075552.0</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:ecDecay">1.352</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Zn65m1" number="65m1" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.6000000000000001e-06</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+</isotope>
+
+<isotope id="Zn66" number="66" elementType="Zn">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Zn67" number="67" elementType="Zn">
+<scalar dictRef="bo:spin">5/2-</scalar>
+</isotope>
+
+<isotope id="Zn68" number="68" elementType="Zn">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Zn69" number="69" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">3384.0</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">0.91026</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Zn69m1" number="69m1" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">49536.0</scalar>
+<scalar dictRef="bo:spin">9/2+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">0.003</scalar>
+</isotope>
+
+<isotope id="Zn70" number="70" elementType="Zn">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Zn71" number="71" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">147.0</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">2.81</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Zn71m1" number="71m1" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">14256.0</scalar>
+<scalar dictRef="bo:spin">9/2+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">99.95</scalar>
+</isotope>
+
+<isotope id="Zn72" number="72" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">167400.0</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">0.44277</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Zn73" number="73" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">23.5</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">4.106</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Zn73m1" number="73m1" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">5.8</scalar>
+<scalar dictRef="bo:spin">7/2+</scalar>
+</isotope>
+
+<isotope id="Zn73m2" number="73m2" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.013</scalar>
+<scalar dictRef="bo:spin">5/2+</scalar>
+</isotope>
+
+<isotope id="Zn74" number="74" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">95.6</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">2.293</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Zn75" number="75" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">10.2</scalar>
+<scalar dictRef="bo:spin">7/2+</scalar>
+<scalar dictRef="bo:betaminusDecay">5.906</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Zn76" number="76" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">5.7</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">3.994</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Zn77" number="77" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2.08</scalar>
+<scalar dictRef="bo:spin">7/2+</scalar>
+<scalar dictRef="bo:betaminusDecay">7.203</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Zn77m1" number="77m1" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.05</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+</isotope>
+
+<isotope id="Zn78" number="78" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.47</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">6.228</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Zn79" number="79" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.995</scalar>
+<scalar dictRef="bo:spin">9/2+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">98.7</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">1.3</scalar>
+</isotope>
+
+<isotope id="Zn80" number="80" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.54</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">99</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">1</scalar>
+</isotope>
+
+<isotope id="Zn81" number="81" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.304</scalar>
+<scalar dictRef="bo:spin">5/2+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">92.5</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">7.5</scalar>
+</isotope>
+
+<isotope id="Zn82" number="82" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.228</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Zn83" number="83" elementType="Zn">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.117</scalar>
+<scalar dictRef="bo:spin">5/2+</scalar>
+</isotope>
+
+<isotope id="Zn84" number="84" elementType="Zn">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Zn85" number="85" elementType="Zn">
+</isotope>
+</isotopeList>
+<isotopeList id="Ga">
+
+<isotope id="Ga56" number="56" elementType="Ga">
+</isotope>
+
+<isotope id="Ga57" number="57" elementType="Ga">
+</isotope>
+
+<isotope id="Ga58" number="58" elementType="Ga">
+</isotope>
+
+<isotope id="Ga59" number="59" elementType="Ga">
+</isotope>
+
+<isotope id="Ga60" number="60" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.07</scalar>
+<scalar dictRef="bo:spin">2+</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">98.4</scalar>
+<scalar dictRef="bo:betaplusprotonDecay"></scalar>
+<scalar dictRef="bo:betaplusprotonDecayLikeliness" units="bo:percentage">1.6</scalar>
+<scalar dictRef="bo:betaplusalphaDecay"></scalar>
+<scalar dictRef="bo:betaplusalphaDecayLikeliness" units="bo:percentage">2.5·10−3</scalar>
+</isotope>
+
+<isotope id="Ga61" number="61" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.167</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:ecDecay">9.214</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ga62" number="62" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.116121</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">9.181</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ga63" number="63" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">32.4</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:ecDecay">5.666</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ga64" number="64" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">157.61999999999998</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">7.171</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ga64m1" number="64m1" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2.1899999999999997e-05</scalar>
+<scalar dictRef="bo:spin">2+</scalar>
+</isotope>
+
+<isotope id="Ga65" number="65" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">912.0</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:ecDecay">3.255</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ga66" number="66" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">34164.0</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">5.175</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ga67" number="67" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">281810.88</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:ecDecay">1.001</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ga68" number="68" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">4062.5999999999995</scalar>
+<scalar dictRef="bo:spin">1+</scalar>
+<scalar dictRef="bo:ecDecay">2.921</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ga69" number="69" elementType="Ga">
+<scalar dictRef="bo:spin">3/2-</scalar>
+</isotope>
+
+<isotope id="Ga70" number="70" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1268.4</scalar>
+<scalar dictRef="bo:spin">1+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">99.59</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">0.41</scalar>
+</isotope>
+
+<isotope id="Ga71" number="71" elementType="Ga">
+<scalar dictRef="bo:spin">3/2-</scalar>
+</isotope>
+
+<isotope id="Ga72" number="72" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">50760.0</scalar>
+<scalar dictRef="bo:spin">3-</scalar>
+<scalar dictRef="bo:betaminusDecay">3.998</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ga72m1" number="72m1" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.03968</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Ga73" number="73" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">17496.0</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">1.598</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ga74" number="74" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">487.19999999999993</scalar>
+<scalar dictRef="bo:spin">3-</scalar>
+<scalar dictRef="bo:betaminusDecay">5.373</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ga74m1" number="74m1" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">9.5</scalar>
+<scalar dictRef="bo:spin">0</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">25</scalar>
+</isotope>
+
+<isotope id="Ga75" number="75" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">126</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">3.392</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ga76" number="76" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">32.6</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+<scalar dictRef="bo:betaminusDecay">6.916</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ga77" number="77" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">13.2</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">5.221</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ga78" number="78" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">5.09</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+<scalar dictRef="bo:betaminusDecay">8.156</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ga79" number="79" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2.847</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">99.91</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">0.09</scalar>
+</isotope>
+
+<isotope id="Ga80" number="80" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.676</scalar>
+<scalar dictRef="bo:spin">3</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">99.14</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">0.86</scalar>
+</isotope>
+
+<isotope id="Ga81" number="81" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.217</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">88.1</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">11.9</scalar>
+</isotope>
+
+<isotope id="Ga82" number="82" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.599</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">80.2</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">19.8</scalar>
+</isotope>
+
+<isotope id="Ga83" number="83" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.30810000000000004</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">37.2</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">62.8</scalar>
+</isotope>
+
+<isotope id="Ga84" number="84" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.085</scalar>
+<scalar dictRef="bo:spin">0</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">26</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">74</scalar>
+</isotope>
+
+<isotope id="Ga85" number="85" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.092</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+</isotope>
+
+<isotope id="Ga86" number="86" elementType="Ga">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.043</scalar>
+</isotope>
+
+<isotope id="Ga87" number="87" elementType="Ga">
+</isotope>
+</isotopeList>
+<isotopeList id="Ge">
+
+<isotope id="Ge58" number="58" elementType="Ge">
+<scalar dictRef="bo:spin">0</scalar>
+</isotope>
+
+<isotope id="Ge59" number="59" elementType="Ge">
+<scalar dictRef="bo:spin">3/2-</scalar>
+</isotope>
+
+<isotope id="Ge60" number="60" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.03</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Ge61" number="61" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.044</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">20</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">80</scalar>
+</isotope>
+
+<isotope id="Ge62" number="62" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.129</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Ge63" number="63" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.15</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:ecDecay">9.626</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ge64" number="64" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">63.7</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">4.517</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ge65" number="65" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">30.9</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:ecDecay">6.179</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ge66" number="66" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">8135.999999999999</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">2.117</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ge67" number="67" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1134.0</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+<scalar dictRef="bo:ecDecay">4.221</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ge67m1" number="67m1" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.37e-05</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+</isotope>
+
+<isotope id="Ge67m2" number="67m2" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.1e-07</scalar>
+<scalar dictRef="bo:spin">9/2+</scalar>
+</isotope>
+
+<isotope id="Ge68" number="68" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">23410080.0</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">0.10694</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ge69" number="69" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">140580.0</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:ecDecay">2.227</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ge69m1" number="69m1" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">5.0999999999999995e-06</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+</isotope>
+
+<isotope id="Ge69m2" number="69m2" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2.81e-06</scalar>
+<scalar dictRef="bo:spin">9/2+</scalar>
+</isotope>
+
+<isotope id="Ge70" number="70" elementType="Ge">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Ge71" number="71" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">987552.0</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+<scalar dictRef="bo:ecDecay">0.233</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ge71m1" number="71m1" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.02041</scalar>
+<scalar dictRef="bo:spin">9/2+</scalar>
+</isotope>
+
+<isotope id="Ge72" number="72" elementType="Ge">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Ge73" number="73" elementType="Ge">
+<scalar dictRef="bo:spin">9/2+</scalar>
+</isotope>
+
+<isotope id="Ge73m1" number="73m1" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.499</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+</isotope>
+
+<isotope id="Ge73m2" number="73m2" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2.8999999999999998e-06</scalar>
+<scalar dictRef="bo:spin">5/2+</scalar>
+</isotope>
+
+<isotope id="Ge74" number="74" elementType="Ge">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Ge75" number="75" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">4966.8</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">1.177</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ge75m1" number="75m1" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">47.7</scalar>
+<scalar dictRef="bo:spin">7/2+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">0.03</scalar>
+</isotope>
+
+<isotope id="Ge75m2" number="75m2" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2.16e-07</scalar>
+<scalar dictRef="bo:spin">5/2+</scalar>
+</isotope>
+
+<isotope id="Ge76" number="76" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">5.04576e+28</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Ge77" number="77" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">40680.0</scalar>
+<scalar dictRef="bo:spin">7/2+</scalar>
+<scalar dictRef="bo:betaminusDecay">2.703</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ge77m1" number="77m1" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">52.9</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">81</scalar>
+</isotope>
+
+<isotope id="Ge78" number="78" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">5280.0</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">0.95469</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ge79" number="79" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">18.98</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">4.109</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ge79m1" number="79m1" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">39</scalar>
+<scalar dictRef="bo:spin">7/2+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">96</scalar>
+</isotope>
+
+<isotope id="Ge80" number="80" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">29.5</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">2.679</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ge81" number="81" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">7.6</scalar>
+<scalar dictRef="bo:spin">9/2+</scalar>
+<scalar dictRef="bo:betaminusDecay">6.242</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ge81m1" number="81m1" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">7.6</scalar>
+<scalar dictRef="bo:spin">1/2+</scalar>
+<scalar dictRef="bo:betaminusDecay">6.909</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ge82" number="82" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">4.56</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">4.688</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ge83" number="83" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.85</scalar>
+<scalar dictRef="bo:spin">5/2+</scalar>
+<scalar dictRef="bo:betaminusDecay">8.693</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ge84" number="84" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.954</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">89.8</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">10.2</scalar>
+</isotope>
+
+<isotope id="Ge85" number="85" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.56</scalar>
+<scalar dictRef="bo:spin">5/2+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">86</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">14</scalar>
+</isotope>
+
+<isotope id="Ge86" number="86" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.226</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">9.202</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ge87" number="87" elementType="Ge">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.14</scalar>
+<scalar dictRef="bo:spin">5/2+</scalar>
+</isotope>
+
+<isotope id="Ge88" number="88" elementType="Ge">
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">10.582</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Ge89" number="89" elementType="Ge">
+</isotope>
+
+<isotope id="Ge90" number="90" elementType="Ge">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+</isotopeList>
+<isotopeList id="As">
+
+<isotope id="As60" number="60" elementType="As">
+</isotope>
+
+<isotope id="As61" number="61" elementType="As">
+</isotope>
+
+<isotope id="As62" number="62" elementType="As">
+</isotope>
+
+<isotope id="As63" number="63" elementType="As">
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:protonDecay">0.9827</scalar>
+<scalar dictRef="bo:protonDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="As64" number="64" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.018</scalar>
+<scalar dictRef="bo:ecDecay">14.662</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="As65" number="65" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.128</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:ecDecay">9.541</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="As66" number="66" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.09577</scalar>
+<scalar dictRef="bo:spin">0</scalar>
+<scalar dictRef="bo:ecDecay">9.582</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="As66m1" number="66m1" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.1e-06</scalar>
+<scalar dictRef="bo:spin">5+</scalar>
+</isotope>
+
+<isotope id="As66m2" number="66m2" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">8.2e-06</scalar>
+<scalar dictRef="bo:spin">9+</scalar>
+</isotope>
+
+<isotope id="As67" number="67" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">42.5</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:ecDecay">6.071</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="As68" number="68" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">151.6</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+<scalar dictRef="bo:ecDecay">8.084</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="As68m1" number="68m1" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">111</scalar>
+<scalar dictRef="bo:spin">1+</scalar>
+</isotope>
+
+<isotope id="As69" number="69" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">912.0</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:ecDecay">3.988</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="As70" number="70" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">3156.0</scalar>
+<scalar dictRef="bo:spin">4+</scalar>
+<scalar dictRef="bo:ecDecay">6.22</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="As70m1" number="70m1" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">9.6e-05</scalar>
+<scalar dictRef="bo:spin">2+</scalar>
+</isotope>
+
+<isotope id="As71" number="71" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">235080.0</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:ecDecay">2.013</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="As72" number="72" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">93600.0</scalar>
+<scalar dictRef="bo:spin">2-</scalar>
+<scalar dictRef="bo:ecDecay">4.356</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="As73" number="73" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">6937920.0</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:ecDecay">0.34479</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="As74" number="74" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1535328.0</scalar>
+<scalar dictRef="bo:spin">2-</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">66</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">34</scalar>
+</isotope>
+
+<isotope id="As75" number="75" elementType="As">
+<scalar dictRef="bo:spin">3/2-</scalar>
+</isotope>
+
+<isotope id="As75m1" number="75m1" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.01762</scalar>
+<scalar dictRef="bo:spin">9/2+</scalar>
+</isotope>
+
+<isotope id="As76" number="76" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">94538.88</scalar>
+<scalar dictRef="bo:spin">2-</scalar>
+<scalar dictRef="bo:betaminusDecay">2.961</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="As76m1" number="76m1" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.8000000000000001e-06</scalar>
+<scalar dictRef="bo:spin">1+</scalar>
+</isotope>
+
+<isotope id="As77" number="77" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">139788.0</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">0.6832</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="As77m1" number="77m1" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.000114</scalar>
+<scalar dictRef="bo:spin">9/2+</scalar>
+</isotope>
+
+<isotope id="As78" number="78" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">5442.0</scalar>
+<scalar dictRef="bo:spin">2-</scalar>
+<scalar dictRef="bo:betaminusDecay">4.209</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="As79" number="79" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">540.6</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">2.281</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="As79m1" number="79m1" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.2e-06</scalar>
+<scalar dictRef="bo:spin">9/2+</scalar>
+</isotope>
+
+<isotope id="As80" number="80" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">15.2</scalar>
+<scalar dictRef="bo:spin">1+</scalar>
+<scalar dictRef="bo:betaminusDecay">5.545</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="As81" number="81" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">33.3</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">3.856</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="As82" number="82" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">19.1</scalar>
+<scalar dictRef="bo:spin">1+</scalar>
+<scalar dictRef="bo:betaminusDecay">7.491</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="As82m1" number="82m1" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">13.6</scalar>
+<scalar dictRef="bo:spin">5-</scalar>
+<scalar dictRef="bo:betaminusDecay">7.37</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="As83" number="83" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">13.4</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">5.671</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="As84" number="84" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">4.2</scalar>
+<scalar dictRef="bo:spin">3-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">99.82</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">0.18</scalar>
+</isotope>
+
+<isotope id="As85" number="85" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2.021</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">60.6</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">59.4</scalar>
+</isotope>
+
+<isotope id="As86" number="86" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.945</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">74</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">26</scalar>
+</isotope>
+
+<isotope id="As87" number="87" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.56</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">84.6</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">15.4</scalar>
+</isotope>
+
+<isotope id="As88" number="88" elementType="As">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.2</scalar>
+<scalar dictRef="bo:betaminusDecay">13.164</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="As89" number="89" elementType="As">
+</isotope>
+
+<isotope id="As90" number="90" elementType="As">
+</isotope>
+
+<isotope id="As91" number="91" elementType="As">
+</isotope>
+
+<isotope id="As92" number="92" elementType="As">
+<scalar dictRef="bo:betaminusDecay">15.742</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+</isotopeList>
+<isotopeList id="Se">
+
+<isotope id="Se64" number="64" elementType="Se">
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">12.724</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Se65" number="65" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.033</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:ecDecay">13.776</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Se66" number="66" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.042</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Se67" number="67" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.136</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">99.5</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">0.5</scalar>
+</isotope>
+
+<isotope id="Se68" number="68" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">35.5</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">4.705</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Se69" number="69" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">27.4</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">99.95</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">0.05</scalar>
+</isotope>
+
+<isotope id="Se69m1" number="69m1" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2e-06</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+</isotope>
+
+<isotope id="Se69m2" number="69m2" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">9.55e-07</scalar>
+<scalar dictRef="bo:spin">9/2+</scalar>
+</isotope>
+
+<isotope id="Se70" number="70" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2466.0</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaplusDecay">2.412</scalar>
+<scalar dictRef="bo:betaplusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Se71" number="71" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">284.40000000000003</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:ecDecay">4.747</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Se71m1" number="71m1" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">5.6e-07</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+</isotope>
+
+<isotope id="Se71m2" number="71m2" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.9e-05</scalar>
+<scalar dictRef="bo:spin">9/2+</scalar>
+</isotope>
+
+<isotope id="Se72" number="72" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">725760.0</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">0.36161</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Se73" number="73" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">25740.0</scalar>
+<scalar dictRef="bo:spin">9/2+</scalar>
+<scalar dictRef="bo:ecDecay">2.725</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Se73m1" number="73m1" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2388.0</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">27.4</scalar>
+</isotope>
+
+<isotope id="Se74" number="74" elementType="Se">
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:2ecDecay">1.209</scalar>
+<scalar dictRef="bo:2ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Se75" number="75" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">10348905.6</scalar>
+<scalar dictRef="bo:spin">5/2+</scalar>
+<scalar dictRef="bo:ecDecay">0.86471</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Se76" number="76" elementType="Se">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Se77" number="77" elementType="Se">
+<scalar dictRef="bo:spin">1/2-</scalar>
+</isotope>
+
+<isotope id="Se77m1" number="77m1" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">17.4</scalar>
+<scalar dictRef="bo:spin">7/2+</scalar>
+</isotope>
+
+<isotope id="Se78" number="78" elementType="Se">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Se79" number="79" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">9303120000000.0</scalar>
+<scalar dictRef="bo:spin">7/2+</scalar>
+<scalar dictRef="bo:betaminusDecay">0.15061</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Se79m1" number="79m1" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">235.2</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">0.06</scalar>
+</isotope>
+
+<isotope id="Se80" number="80" elementType="Se">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Se81" number="81" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1107.0</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">1.587</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Se81m1" number="81m1" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">3436.8</scalar>
+<scalar dictRef="bo:spin">7/2+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">0.05</scalar>
+</isotope>
+
+<isotope id="Se82" number="82" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2.869776e+27</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Se82m1" number="82m1" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">6.5999999999999995e-09</scalar>
+<scalar dictRef="bo:spin">8+</scalar>
+</isotope>
+
+<isotope id="Se83" number="83" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1338.0</scalar>
+<scalar dictRef="bo:spin">9/2+</scalar>
+<scalar dictRef="bo:betaminusDecay">3.673</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Se83m1" number="83m1" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">70.1</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">3.901</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Se84" number="84" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">195.6</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">1.836</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Se85" number="85" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">32.9</scalar>
+<scalar dictRef="bo:spin">5/2+</scalar>
+<scalar dictRef="bo:betaminusDecay">6.162</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Se86" number="86" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">14.3</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">5.129</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Se87" number="87" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">5.5</scalar>
+<scalar dictRef="bo:spin">5/2+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">99.8</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">0.2</scalar>
+</isotope>
+
+<isotope id="Se88" number="88" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.53</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">99.33</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">0.67</scalar>
+</isotope>
+
+<isotope id="Se89" number="89" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.41</scalar>
+<scalar dictRef="bo:spin">5/2+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">92.2</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">7.8</scalar>
+</isotope>
+
+<isotope id="Se90" number="90" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.195</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Se91" number="91" elementType="Se">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.27</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">79</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">21</scalar>
+</isotope>
+
+<isotope id="Se92" number="92" elementType="Se">
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">9.509</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Se93" number="93" elementType="Se">
+<scalar dictRef="bo:spin">1/2+</scalar>
+<scalar dictRef="bo:betaminusDecay">12.259</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Se94" number="94" elementType="Se">
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">10.796</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Se95" number="95" elementType="Se">
+</isotope>
+</isotopeList>
+<isotopeList id="Br">
+
+<isotope id="Br67" number="67" elementType="Br">
+</isotope>
+
+<isotope id="Br68" number="68" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.2e-06</scalar>
+</isotope>
+
+<isotope id="Br69" number="69" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2.4e-08</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+</isotope>
+
+<isotope id="Br70" number="70" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.07909999999999999</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">10.504</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Br70m1" number="70m1" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2.2</scalar>
+<scalar dictRef="bo:spin">9+</scalar>
+<scalar dictRef="bo:ecDecay">12.796</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Br71" number="71" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">21.4</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:ecDecay">6.644</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Br72" number="72" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">78.6</scalar>
+<scalar dictRef="bo:spin">3+</scalar>
+<scalar dictRef="bo:ecDecay">8.801</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Br72m1" number="72m1" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">10.6</scalar>
+<scalar dictRef="bo:spin">1-</scalar>
+</isotope>
+
+<isotope id="Br73" number="73" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">204.0</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+<scalar dictRef="bo:ecDecay">4.58</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Br74" number="74" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1524.0</scalar>
+<scalar dictRef="bo:spin">0</scalar>
+<scalar dictRef="bo:ecDecay">6.925</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Br74m1" number="74m1" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">2760.0</scalar>
+<scalar dictRef="bo:spin">4+</scalar>
+<scalar dictRef="bo:ecDecay">9.921</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Br75" number="75" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">5802.0</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:ecDecay">3.062</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Br76" number="76" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">58320.0</scalar>
+<scalar dictRef="bo:spin">1-</scalar>
+<scalar dictRef="bo:ecDecay">4.963</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Br76m1" number="76m1" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.31</scalar>
+<scalar dictRef="bo:spin">4+</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">0.6</scalar>
+</isotope>
+
+<isotope id="Br77" number="77" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">205329.6</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:ecDecay">1.365</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Br77m1" number="77m1" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">256.8</scalar>
+<scalar dictRef="bo:spin">9/2+</scalar>
+</isotope>
+
+<isotope id="Br78" number="78" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">387.0</scalar>
+<scalar dictRef="bo:spin">1+</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">99.99</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">0.01</scalar>
+</isotope>
+
+<isotope id="Br79" number="79" elementType="Br">
+<scalar dictRef="bo:spin">3/2-</scalar>
+</isotope>
+
+<isotope id="Br79m1" number="79m1" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">5.1</scalar>
+<scalar dictRef="bo:spin">9/2+</scalar>
+</isotope>
+
+<isotope id="Br80" number="80" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1060.8</scalar>
+<scalar dictRef="bo:spin">1+</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">91.7</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">8.3</scalar>
+</isotope>
+
+<isotope id="Br80m1" number="80m1" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">15913.8</scalar>
+<scalar dictRef="bo:spin">5-</scalar>
+</isotope>
+
+<isotope id="Br81" number="81" elementType="Br">
+<scalar dictRef="bo:spin">3/2-</scalar>
+</isotope>
+
+<isotope id="Br81m1" number="81m1" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">3.46e-05</scalar>
+<scalar dictRef="bo:spin">9/2+</scalar>
+</isotope>
+
+<isotope id="Br82" number="82" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">127015.19999999998</scalar>
+<scalar dictRef="bo:spin">5-</scalar>
+<scalar dictRef="bo:betaminusDecay">3.093</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Br82m1" number="82m1" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">367.8</scalar>
+<scalar dictRef="bo:spin">2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">2.4</scalar>
+</isotope>
+
+<isotope id="Br83" number="83" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">8640.0</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">0.97662</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Br83m1" number="83m1" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">7e-07</scalar>
+<scalar dictRef="bo:spin">19/2-</scalar>
+</isotope>
+
+<isotope id="Br84" number="84" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1905.6000000000001</scalar>
+<scalar dictRef="bo:spin">2-</scalar>
+<scalar dictRef="bo:betaminusDecay">4.656</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Br84m1" number="84m1" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">360.0</scalar>
+<scalar dictRef="bo:spin">6-</scalar>
+<scalar dictRef="bo:betaminusDecay">4.96</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Br84m2" number="84m2" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1e-07</scalar>
+<scalar dictRef="bo:spin">1+</scalar>
+</isotope>
+
+<isotope id="Br85" number="85" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">174.0</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay">2.905</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Br86" number="86" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">55.1</scalar>
+<scalar dictRef="bo:spin">2-</scalar>
+<scalar dictRef="bo:betaminusDecay">7.633</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Br87" number="87" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">55.65</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">97.4</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">2.6</scalar>
+</isotope>
+
+<isotope id="Br88" number="88" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">16.29</scalar>
+<scalar dictRef="bo:spin">1, 2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">93.42</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">6.58</scalar>
+</isotope>
+
+<isotope id="Br88m1" number="88m1" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">5.3e-06</scalar>
+<scalar dictRef="bo:spin">5-</scalar>
+</isotope>
+
+<isotope id="Br89" number="89" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">4.4</scalar>
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">86.2</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">13.8</scalar>
+</isotope>
+
+<isotope id="Br90" number="90" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.91</scalar>
+<scalar dictRef="bo:spin">2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">74.8</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">25.2</scalar>
+</isotope>
+
+<isotope id="Br91" number="91" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.541</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">80</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">20</scalar>
+</isotope>
+
+<isotope id="Br92" number="92" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.343</scalar>
+<scalar dictRef="bo:spin">2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">66.9</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">33.1</scalar>
+</isotope>
+
+<isotope id="Br93" number="93" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.102</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">32</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">68</scalar>
+</isotope>
+
+<isotope id="Br94" number="94" elementType="Br">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.07</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">32</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">68</scalar>
+</isotope>
+
+<isotope id="Br95" number="95" elementType="Br">
+<scalar dictRef="bo:spin">3/2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">66</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">34</scalar>
+</isotope>
+
+<isotope id="Br96" number="96" elementType="Br">
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">72.4</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">27.6</scalar>
+</isotope>
+
+<isotope id="Br97" number="97" elementType="Br">
+<scalar dictRef="bo:spin">3/2-</scalar>
+</isotope>
+
+<isotope id="Br98" number="98" elementType="Br">
+</isotope>
+</isotopeList>
+<isotopeList id="Kr">
+
+<isotope id="Kr69" number="69" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.032</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:ecDecay">13.677</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Kr70" number="70" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.052</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">98.7</scalar>
+<scalar dictRef="bo:betaplusprotonDecay"></scalar>
+<scalar dictRef="bo:betaplusprotonDecayLikeliness" units="bo:percentage">1.3</scalar>
+</isotope>
+
+<isotope id="Kr71" number="71" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.1</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">97.9</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">2.1</scalar>
+</isotope>
+
+<isotope id="Kr72" number="72" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">17.1</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">1·10−6</scalar>
+</isotope>
+
+<isotope id="Kr73" number="73" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">27.3</scalar>
+<scalar dictRef="bo:spin">5/2-</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">99.75</scalar>
+<scalar dictRef="bo:ecprotonDecay"></scalar>
+<scalar dictRef="bo:ecprotonDecayLikeliness" units="bo:percentage">0.25</scalar>
+</isotope>
+
+<isotope id="Kr73m1" number="73m1" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">107</scalar>
+<scalar dictRef="bo:spin">9/2+</scalar>
+</isotope>
+
+<isotope id="Kr74" number="74" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">690.0</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">2.956</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Kr75" number="75" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">257.4</scalar>
+<scalar dictRef="bo:spin">5/2+</scalar>
+<scalar dictRef="bo:ecDecay">4.783</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Kr76" number="76" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">53280.0</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:ecDecay">1.275</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Kr77" number="77" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">4464.0</scalar>
+<scalar dictRef="bo:spin">5/2+</scalar>
+<scalar dictRef="bo:ecDecay">3.065</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Kr78" number="78" elementType="Kr">
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:2ecDecay">2.846</scalar>
+<scalar dictRef="bo:2ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Kr79" number="79" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">126144.0</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+<scalar dictRef="bo:ecDecay">1.628</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Kr79m1" number="79m1" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">50</scalar>
+<scalar dictRef="bo:spin">7/2+</scalar>
+</isotope>
+
+<isotope id="Kr80" number="80" elementType="Kr">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Kr81" number="81" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">7221744000000.0</scalar>
+<scalar dictRef="bo:spin">7/2+</scalar>
+<scalar dictRef="bo:ecDecay">0.28085</scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Kr81m1" number="81m1" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">13.1</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+<scalar dictRef="bo:ecDecay"></scalar>
+<scalar dictRef="bo:ecDecayLikeliness" units="bo:percentage">2.5·10−3</scalar>
+</isotope>
+
+<isotope id="Kr82" number="82" elementType="Kr">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Kr83" number="83" elementType="Kr">
+<scalar dictRef="bo:spin">9/2+</scalar>
+</isotope>
+
+<isotope id="Kr83m1" number="83m1" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">6660.0</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+</isotope>
+
+<isotope id="Kr83m2" number="83m2" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.544e-07</scalar>
+<scalar dictRef="bo:spin">7/2+</scalar>
+</isotope>
+
+<isotope id="Kr84" number="84" elementType="Kr">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Kr84m1" number="84m1" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.8999999999999998e-06</scalar>
+<scalar dictRef="bo:spin">8+</scalar>
+</isotope>
+
+<isotope id="Kr85" number="85" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">339075072.0</scalar>
+<scalar dictRef="bo:spin">9/2+</scalar>
+<scalar dictRef="bo:betaminusDecay">0.68704</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Kr85m1" number="85m1" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">16128.000000000002</scalar>
+<scalar dictRef="bo:spin">1/2-</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">78.6</scalar>
+</isotope>
+
+<isotope id="Kr85m2" number="85m2" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.7e-06</scalar>
+<scalar dictRef="bo:spin">19/2+</scalar>
+</isotope>
+
+<isotope id="Kr86" number="86" elementType="Kr">
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Kr87" number="87" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">4578.0</scalar>
+<scalar dictRef="bo:spin">5/2+</scalar>
+<scalar dictRef="bo:betaminusDecay">3.889</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Kr88" number="88" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">10224.0</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">2.918</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Kr89" number="89" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">189.0</scalar>
+<scalar dictRef="bo:spin">3/2+</scalar>
+<scalar dictRef="bo:betaminusDecay">5.177</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Kr90" number="90" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">32.32</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay">4.405</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Kr91" number="91" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">8.57</scalar>
+<scalar dictRef="bo:spin">5/2+</scalar>
+<scalar dictRef="bo:betaminusDecay">6.771</scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">100.0</scalar>
+</isotope>
+
+<isotope id="Kr92" number="92" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.84</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">97.97</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">0.03</scalar>
+</isotope>
+
+<isotope id="Kr93" number="93" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">1.286</scalar>
+<scalar dictRef="bo:spin">1/2+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">98.05</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">1.95</scalar>
+</isotope>
+
+<isotope id="Kr94" number="94" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.212</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">98.89</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">1.11</scalar>
+</isotope>
+
+<isotope id="Kr95" number="95" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.114</scalar>
+<scalar dictRef="bo:spin">1/2</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">97.13</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">2.87</scalar>
+</isotope>
+
+<isotope id="Kr96" number="96" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.08</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">96.3</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">3.7</scalar>
+</isotope>
+
+<isotope id="Kr97" number="97" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.063</scalar>
+<scalar dictRef="bo:spin">3/2+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">93.3</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">6.7</scalar>
+</isotope>
+
+<isotope id="Kr98" number="98" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.046</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">93</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">7</scalar>
+</isotope>
+
+<isotope id="Kr99" number="99" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.013</scalar>
+<scalar dictRef="bo:spin">3/2+</scalar>
+<scalar dictRef="bo:betaminusDecay"></scalar>
+<scalar dictRef="bo:betaminusDecayLikeliness" units="bo:percentage">89</scalar>
+<scalar dictRef="bo:betaminusneutronDecay"></scalar>
+<scalar dictRef="bo:betaminusneutronDecayLikeliness" units="bo:percentage">11</scalar>
+</isotope>
+
+<isotope id="Kr100" number="100" elementType="Kr">
+<scalar dictRef="bo:halfLife" units="siUnits:s">0.007</scalar>
+<scalar dictRef="bo:spin">0+</scalar>
+</isotope>
+
+<isotope id="Kr101" number="101" elementType="Kr">
+</isotope>
