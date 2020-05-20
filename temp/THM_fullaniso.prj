@@ -323,9 +323,7 @@
                         <property>
                             <name>storage</name>
                             <type>Constant</type>
-                            <!--4.6e-10*0.183//-->
                             <value>3e-10</value>
-                            <!--<value>1e-10</value>//--><!--0.183e-10-->
                         </property>
                         <property>
                             <name>density</name>
@@ -476,35 +474,15 @@
             <type>Constant</type>
             <values>8e9 8e9 4e9</values>
         </parameter>
-        <parameter>
-            <name>E3</name>
-            <type>Constant</type>
-            <value>4e9</value>
-        </parameter>
          <parameter>
             <name>G</name>
             <type>Constant</type>
             <values>2.9629629629629626e9 1.48148E+09 1.48148E+09</values>
         </parameter>
         <parameter>
-            <name>G13</name>
-            <type>Constant</type>
-            <value>1.48148E+09</value>
-        </parameter>
-        <parameter>
             <name>nu</name>
             <type>Constant</type>
             <values>0.35 0.25 0.25</values>
-        </parameter>
-        <parameter>
-            <name>nu31</name>
-            <type>Constant</type>
-            <value>0.25</value>
-        </parameter>
-        <parameter>
-            <name>nu13</name>
-            <type>Constant</type>
-            <value>0.5</value>
         </parameter>
         <parameter>
             <name>temperature_ref</name>
