@@ -18,9 +18,9 @@ class moveparametersXML(object):
 
     def subsParam(self):
         if not self.tree:
-            #parser = ET.XMLParser(remove_blank_text=True)
-            #self.tree = ET.parse(self.inputfile, parser)
-            self.tree = ET.parse(self.inputfile)
+            parser = ET.XMLParser(remove_blank_text=True)
+            self.tree = ET.parse(self.inputfile, parser)
+           # self.tree = ET.parse(self.inputfile)
         root = self.tree.getroot()
         for medium in root.findall(self.mediapath):
             self.tempmem[medium.attrib["id"]] = {}
@@ -34,6 +34,7 @@ class moveparametersXML(object):
                                     print("Medium:", medium.attrib["id"], "delete property: ", param_name)
                                     self.deleteEntry(propty)
             self.addEntries(medium)
+        ET.indent(root, space="    ")
 
     def saveEntry(self, name, medium, propty):
         self.tempmem[medium.attrib["id"]][name] = { "tag": [], "text": [] }
