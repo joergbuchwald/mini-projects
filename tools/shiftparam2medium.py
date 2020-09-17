@@ -1,12 +1,11 @@
 import sys
 from lxml import etree as ET
 
-class manuXML(object):
+class moveparametersXML(object):
     def __init__(self, **args):
         self.tree = None
-        self.proptypath = "./media/medium/phases/phase/properties/property"
         self.mediapath = "./media/medium"
-        self.param_names = ["permeability", "porosity", "storage", "biot_coefficient"]
+        self.param_names = ["permeability", "porosity", "storage", "biot_coefficient"] # solid phase only
         if "ifile" in args:
             self.inputfile = args['ifile']
         else:
@@ -55,9 +54,9 @@ class manuXML(object):
             properties = ET.SubElement(mediumref, "properties")
         for name in self.tempmem[mediumref.attrib["id"]]:
             print("Medium:", mediumref.attrib["id"], "add property: ", name)
-            propty = ET.SubElement(properties, "property")
+            p = ET.SubElement(properties, "property")
             for i, subitem in enumerate(self.tempmem[mediumref.attrib["id"]][name]["tag"]):
-                subelement = ET.SubElement(propty, subitem)
+                subelement = ET.SubElement(p, subitem)
                 subelement.text = self.tempmem[mediumref.attrib["id"]][name]["text"][i]
 
 
@@ -71,9 +70,9 @@ class manuXML(object):
 
 if __name__ == "__main__":
     if len(sys.argv) > 2:
-        replace = manuXML(ifile=sys.argv[1], ofile=sys.argv[2])
+        replace = moveparametersXML(ifile=sys.argv[1], ofile=sys.argv[2])
     else:
-        replace = manuXML(ifile=sys.argv[1], ofile=sys.argv[1])
+        replace = moveparametersXML(ifile=sys.argv[1], ofile=sys.argv[1])
     replace.subsParam()
     replace.writeOutput()
 
