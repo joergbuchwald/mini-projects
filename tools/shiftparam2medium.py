@@ -3,6 +3,11 @@
 import sys
 from lxml import etree as ET
 
+
+def transform(tree, xslt):
+    transform = ET.XSLT(xslt)
+    return transform(tree)
+
 class moveparametersXML(object):
     def __init__(self, **args):
         self.tree = None
