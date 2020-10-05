@@ -92,10 +92,15 @@ class moveparametersXML(object):
             return True
 
 if __name__ == "__main__":
-    if len(sys.argv) > 2:
-        replace = moveparametersXML(ifile=sys.argv[1], ofile=sys.argv[2])
-    else:
-        replace = moveparametersXML(ifile=sys.argv[1], ofile=sys.argv[1])
-    replace.subsParam()
-    replace.writeOutput()
+    if len(sys.argv) != 3:
+        print("Requires two arguments, input and output file names.")
+        exit
 
+    tree = ET.parse(sys.argv[1])
+    encoding = tree.docinfo.encoding
+    tree = transform(tree, xslt())
+    ET.indent(tree, space="    ")
+    tree.write(sys.argv[2],
+               encoding=encoding,
+               xml_declaration=True,
+               pretty_print=True)
