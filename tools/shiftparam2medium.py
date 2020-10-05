@@ -8,6 +8,21 @@ def transform(tree, xslt):
     transform = ET.XSLT(xslt)
     return transform(tree)
 
+
+def xslt():
+    return ET.XML('''\
+    <xsl:stylesheet version="1.0"
+        xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+        <xsl:strip-space elements="*"/>
+
+        <xsl:template match="node()|@*">
+            <xsl:copy>
+                <xsl:apply-templates select="node()|@*"/>
+            </xsl:copy>
+        </xsl:template>
+    </xsl:stylesheet>''')
+
+
 class moveparametersXML(object):
     def __init__(self, **args):
         self.tree = None
