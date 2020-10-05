@@ -46,6 +46,34 @@ def xsltMoveSolidPropertyToMedium(property_name):
     </xsl:stylesheet>'''.replace('PROPERTY_NAME', property_name))
 
 
+def xsltMediumPropertyToPhase(property_name, phase):
+    return ET.XML('''\
+    <xsl:stylesheet version="1.0"
+        xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+        <xsl:strip-space elements="*"/>
+
+        <xsl:template match="node()|@*">
+            <xsl:copy>
+                <xsl:apply-templates select="node()|@*"/>
+            </xsl:copy>
+        </xsl:template>
+
+        <!-- Remove this medium property. -->
+        <xsl:template match="//medium/properties/property[./name='PROPERTY_NAME']"/>
+
+        <!-- Copy it into given phase. -->
+        <xsl:template match="//phase[./type='PHASE']/properties">
+            <xsl:copy>
+                <xsl:apply-templates select="@*" />
+                <xsl:copy-of select="//medium/properties/property[./name='PROPERTY_NAME']"/>
+                <xsl:apply-templates select="node()" />
+            </xsl:copy>
+        </xsl:template>
+
+    </xsl:stylesheet>'''.replace('PROPERTY_NAME',
+                                 property_name).replace('PHASE', phase))
+
+
 def write(tree, filename):
     ET.indent(tree, space="    ")
     tree.write(sys.argv[2],
@@ -67,4 +95,7 @@ if __name__ == "__main__":
     ]:
         tree = transform(tree, xsltMoveSolidPropertyToMedium(property))
 
+    tree = transform(
+        tree,
+        xsltMediumPropertyToPhase('relative_permeability', 'AqueousLiquid'))
     write(tree, sys.argv[2])
