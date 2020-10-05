@@ -46,6 +46,14 @@ def xsltMoveSolidPropertyToMedium(property_name):
     </xsl:stylesheet>'''.replace('PROPERTY_NAME', property_name))
 
 
+def write(tree, filename):
+    ET.indent(tree, space="    ")
+    tree.write(sys.argv[2],
+               encoding=encoding,
+               xml_declaration=True,
+               pretty_print=True)
+
+
 if __name__ == "__main__":
     if len(sys.argv) != 3:
         print("Requires two arguments, input and output file names.")
@@ -59,8 +67,4 @@ if __name__ == "__main__":
     ]:
         tree = transform(tree, xsltMoveSolidPropertyToMedium(property))
 
-    ET.indent(tree, space="    ")
-    tree.write(sys.argv[2],
-               encoding=encoding,
-               xml_declaration=True,
-               pretty_print=True)
+    write(tree, sys.argv[2])
