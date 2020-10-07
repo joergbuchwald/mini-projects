@@ -5,73 +5,60 @@ from lxml import etree as ET
 
 
 def transform(tree, xslt):
-    transform = ET.XSLT(xslt)
+    write(ET.ElementTree(xslt), '/tmp/xslt.xml')
+    transform = ET.XSLT(ET.ElementTree(xslt))
     return transform(tree)
 
 
-def xsltMoveSolidPropertyToMedium(property_name):
-    return ET.XML('''\
+xsltHeader = '''\
     <xsl:stylesheet version="1.0"
         xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <xsl:strip-space elements="*"/>
+    '''
 
+xsltFooter = '</xsl:stylesheet>'
+
+xsltCopyAll = '''\
         <xsl:template match="node()|@*">
             <xsl:copy>
                 <xsl:apply-templates select="node()|@*"/>
             </xsl:copy>
         </xsl:template>
+    '''
 
-        <!-- Remove this property. -->
-        <xsl:template match="//phase[./type='Solid']/properties/property[./name='PROPERTY_NAME']"/>
 
-        <!-- Copy it into /medium/properties if the latter exists. -->
-        <xsl:template match="//medium/properties">
+def xsltRemove(match):
+    return '    <xsl:template match="' + match + '"/>\n'
+
+
+def xsltCopy(match, select):
+    return '''\
+        <xsl:template match="''' + match + '''">
             <xsl:copy>
                 <xsl:apply-templates select="@*" />
-                <xsl:copy-of select="//phase[./type='Solid']/properties/property[./name='PROPERTY_NAME']"/>
+                <xsl:copy-of select="''' + select + '''"/>
                 <xsl:apply-templates select="node()" />
             </xsl:copy>
         </xsl:template>
+    '''
 
-        <!-- Copy it into /medium/properties if the latter does _not_ exists. -->
-        <xsl:template match="//medium[not(properties)]">
+
+def xsltMove(match, select):
+    return xsltRemove(select) + xsltCopy(match, select)
+
+
+def xsltCopyCreateSubtree(match, element, select):
+    return '''\
+        <xsl:template match="''' + match + '[not(' + element + ''')]">
             <xsl:copy>
                 <xsl:apply-templates select="@*" />
-                <properties>
-                    <xsl:copy-of select="//phase[./type='Solid']/properties/property[./name='PROPERTY_NAME']"/>
-                </properties>
+                <''' + element + '''>
+                    <xsl:copy-of select="''' + select + '''"/>
+                </''' + element + '''>
                 <xsl:apply-templates select="node()" />
             </xsl:copy>
         </xsl:template>
-    </xsl:stylesheet>'''.replace('PROPERTY_NAME', property_name))
-
-
-def xsltMediumPropertyToPhase(property_name, phase):
-    return ET.XML('''\
-    <xsl:stylesheet version="1.0"
-        xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-        <xsl:strip-space elements="*"/>
-
-        <xsl:template match="node()|@*">
-            <xsl:copy>
-                <xsl:apply-templates select="node()|@*"/>
-            </xsl:copy>
-        </xsl:template>
-
-        <!-- Remove this medium property. -->
-        <xsl:template match="//medium/properties/property[./name='PROPERTY_NAME']"/>
-
-        <!-- Copy it into given phase. -->
-        <xsl:template match="//phase[./type='PHASE']/properties">
-            <xsl:copy>
-                <xsl:apply-templates select="@*" />
-                <xsl:copy-of select="//medium/properties/property[./name='PROPERTY_NAME']"/>
-                <xsl:apply-templates select="node()" />
-            </xsl:copy>
-        </xsl:template>
-
-    </xsl:stylesheet>'''.replace('PROPERTY_NAME',
-                                 property_name).replace('PHASE', phase))
+    '''
 
 
 def write(tree, filename):
@@ -90,12 +77,24 @@ if __name__ == "__main__":
     tree = ET.parse(sys.argv[1])
     encoding = tree.docinfo.encoding
 
+    xslt = xsltHeader + xsltCopyAll
+
+    xslt += xsltMove(
+        "//phase[./type='AqueousLiquid']/properties",
+        "//medium/properties/property[./name='relative_permeability']")
+
     for property in [
             'permeability', 'porosity', 'storage', 'biot_coefficient'
     ]:
-        tree = transform(tree, xsltMoveSolidPropertyToMedium(property))
+        xslt += xsltMove(
+            "//medium/properties",
+            "//phase[./type='Solid']/properties/property[./name='" + property +
+            "']")
+        xslt += xsltCopyCreateSubtree(
+            "//medium", "properties",
+            "//phase[./type='Solid']/properties/property[./name='" + property +
+            "']")
 
-    tree = transform(
-        tree,
-        xsltMediumPropertyToPhase('relative_permeability', 'AqueousLiquid'))
-    write(tree, sys.argv[2])
+    xslt += xsltFooter
+
+    write(transform(tree, ET.XML(xslt)), sys.argv[2])
