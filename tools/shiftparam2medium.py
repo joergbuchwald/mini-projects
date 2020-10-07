@@ -1,79 +1,100 @@
+#!/usr/bin/env python
+
 import sys
 from lxml import etree as ET
 
-class moveparametersXML(object):
-    def __init__(self, **args):
-        self.tree = None
-        self.mediapath = "./media/medium"
-        self.param_names = ["permeability", "porosity", "storage", "biot_coefficient"] # solid phase only
-        if "ifile" in args:
-            self.inputfile = args['ifile']
-        else:
-            self.inputfile = "default.prj"
-        if "ofile" in args:
-            self.outputfile = args["ofile"]
-        else:
-            self.outputfile = "default.prj"
-        self.tempmem = {}
 
-    def subsParam(self):
-        if not self.tree:
-            parser = ET.XMLParser(remove_blank_text=True)
-            self.tree = ET.parse(self.inputfile, parser)
-           # self.tree = ET.parse(self.inputfile)
-        root = self.tree.getroot()
-        for medium in root.findall(self.mediapath):
-            self.tempmem[medium.attrib["id"]] = {}
-            for phases in medium:
-                for phase in phases:
-                    for propties in phase:
-                        for propty in propties:
-                            for param_name in self.param_names:
-                                if propty.find("name").text == param_name:
-                                    self.saveEntry(param_name, medium, propty)
-                                    print("Medium:", medium.attrib["id"], "delete property: ", param_name)
-                                    self.deleteEntry(propty)
-            self.addEntries(medium)
-        ET.indent(root, space="    ")
-
-    def saveEntry(self, name, medium, propty):
-        self.tempmem[medium.attrib["id"]][name] = { "tag": [], "text": [] }
-        for subtag in propty:
-            self.tempmem[medium.attrib["id"]][name]["tag"].append(subtag.tag)
-            self.tempmem[medium.attrib["id"]][name]["text"].append(subtag.text)
-        #print(self.tempmem)
-
-    def deleteEntry(self, propty):
-        propty.getparent().remove(propty)
-
-    def addEntries(self, mediumref):
-        properties = None
-        for entry in mediumref:
-            if entry.tag == "properties":
-                properties = entry
-        if properties is None:
-            properties = ET.SubElement(mediumref, "properties")
-        for name in self.tempmem[mediumref.attrib["id"]]:
-            print("Medium:", mediumref.attrib["id"], "add property: ", name)
-            p = ET.SubElement(properties, "property")
-            for i, subitem in enumerate(self.tempmem[mediumref.attrib["id"]][name]["tag"]):
-                subelement = ET.SubElement(p, subitem)
-                subelement.text = self.tempmem[mediumref.attrib["id"]][name]["text"][i]
+def transform(tree, xslt):
+    write(ET.ElementTree(xslt), '/tmp/xslt.xml')
+    transform = ET.XSLT(ET.ElementTree(xslt))
+    return transform(tree)
 
 
-    def writeOutput(self):
-        if self.tree:
-            self.tree.write(self.outputfile,
-                            encoding="ISO-8859-1",
-                            xml_declaration=True,
-                            pretty_print=True)
-            return True
+xsltHeader = '''\
+    <xsl:stylesheet version="1.0"
+        xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+        <xsl:strip-space elements="*"/>
+    '''
+
+xsltFooter = '</xsl:stylesheet>'
+
+xsltCopyAll = '''\
+        <xsl:template match="node()|@*">
+            <xsl:copy>
+                <xsl:apply-templates select="node()|@*"/>
+            </xsl:copy>
+        </xsl:template>
+    '''
+
+
+def xsltRemove(match):
+    return '    <xsl:template match="' + match + '"/>\n'
+
+
+def xsltCopy(match, select):
+    return '''\
+        <xsl:template match="''' + match + '''">
+            <xsl:copy>
+                <xsl:apply-templates select="@*" />
+                <xsl:copy-of select="''' + select + '''"/>
+                <xsl:apply-templates select="node()" />
+            </xsl:copy>
+        </xsl:template>
+    '''
+
+
+def xsltMove(match, select):
+    return xsltRemove(select) + xsltCopy(match, select)
+
+
+def xsltCopyCreateSubtree(match, element, select):
+    return '''\
+        <xsl:template match="''' + match + '[not(' + element + ''')]">
+            <xsl:copy>
+                <xsl:apply-templates select="@*" />
+                <''' + element + '''>
+                    <xsl:copy-of select="''' + select + '''"/>
+                </''' + element + '''>
+                <xsl:apply-templates select="node()" />
+            </xsl:copy>
+        </xsl:template>
+    '''
+
+
+def write(tree, filename):
+    ET.indent(tree, space="    ")
+    tree.write(sys.argv[2],
+               encoding=encoding,
+               xml_declaration=True,
+               pretty_print=True)
+
 
 if __name__ == "__main__":
-    if len(sys.argv) > 2:
-        replace = moveparametersXML(ifile=sys.argv[1], ofile=sys.argv[2])
-    else:
-        replace = moveparametersXML(ifile=sys.argv[1], ofile=sys.argv[1])
-    replace.subsParam()
-    replace.writeOutput()
+    if len(sys.argv) != 3:
+        print("Requires two arguments, input and output file names.")
+        exit
 
+    tree = ET.parse(sys.argv[1])
+    encoding = tree.docinfo.encoding
+
+    xslt = xsltHeader + xsltCopyAll
+
+    xslt += xsltMove(
+        "//phase[./type='AqueousLiquid']/properties",
+        "//medium/properties/property[./name='relative_permeability']")
+
+    for property in [
+            'permeability', 'porosity', 'storage', 'biot_coefficient'
+    ]:
+        xslt += xsltMove(
+            "//medium/properties",
+            "//phase[./type='Solid']/properties/property[./name='" + property +
+            "']")
+        xslt += xsltCopyCreateSubtree(
+            "//medium", "properties",
+            "//phase[./type='Solid']/properties/property[./name='" + property +
+            "']")
+
+    xslt += xsltFooter
+
+    write(transform(tree, ET.XML(xslt)), sys.argv[2])
