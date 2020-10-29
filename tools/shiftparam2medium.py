@@ -83,17 +83,16 @@ if __name__ == "__main__":
         "//phase[./type='AqueousLiquid']/properties",
         "//medium/properties/property[./name='relative_permeability']")
 
-    for property in [
-            'permeability', 'porosity', 'storage', 'biot_coefficient'
-    ]:
-        xslt += xsltMove(
-            "//medium/properties",
-            "//phase[./type='Solid']/properties/property[./name='" + property +
-            "']")
-        xslt += xsltCopyCreateSubtree(
-            "//medium", "properties",
-            "//phase[./type='Solid']/properties/property[./name='" + property +
-            "']")
+    properties = ['permeability', 'porosity', 'storage', 'biot_coefficient']
+    property_selector = ' or '.join(["./name='" + p + "'" for p in properties])
+
+    xslt += xsltMove(
+        "//medium/properties", "//phase[./type='Solid']/properties/property[" +
+        property_selector + "]")
+    xslt += xsltCopyCreateSubtree(
+        "//medium", "properties",
+        "//phase[./type='Solid']/properties/property[" + property_selector +
+        "]")
 
     xslt += xsltFooter
 
