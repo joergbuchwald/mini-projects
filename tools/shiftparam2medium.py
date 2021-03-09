@@ -79,11 +79,11 @@ if __name__ == "__main__":
 
     xslt = xsltHeader + xsltCopyAll
 
-    xslt += xsltMove(
-        "//phase[./type='AqueousLiquid']/properties",
-        "//medium/properties/property[./name='relative_permeability']")
-
-    properties = ['permeability', 'porosity', 'storage', 'biot_coefficient']
+    #xslt += xsltMove(
+    #    "//phase[./type='AqueousLiquid']/properties",
+    #    "//medium/properties/property[./name='relative_permeability']")
+    #
+    properties = ['permeability', 'porosity', 'storage', 'biot_coefficient', 'transport_porosity']
     property_selector = ' or '.join(["./name='" + p + "'" for p in properties])
 
     xslt += xsltMove(
