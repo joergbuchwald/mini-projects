@@ -77,3 +77,19 @@ class viscosity_4(template.PROPERTY):
         string = self._getcodeasstring("dvalue", None)
         string = self._convertpythontoexprtk(string)
         return string
+
+class viscosity_5(template.PROPERTY):
+    def value(self, temperature):
+        return 2.1e-6 * np.exp(1808.5/temperature)
+    def dvalue(self, temperature):
+        return - 2.1e-6 * 1808.5 * np.exp(1808.5/temperature)/temperature**2
+    def dvaluenum(self,temperature):
+        return np.gradient(self.value(temperature),temperature)
+    def exprtk_value(self):
+        string = self._getcodeasstring("value", None)
+        string = self._convertpythontoexprtk(string)
+        return string
+    def exprtk_dvalue(self):
+        string = self._getcodeasstring("dvalue", None)
+        string = self._convertpythontoexprtk(string)
+        return string

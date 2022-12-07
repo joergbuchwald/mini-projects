@@ -48,3 +48,21 @@ class expansivity_2(template.PROPERTY):
         string = self._getcodeasstring("dvalue",None)
         string = self._convertpythontoexprtk(string)
         return string
+
+class expansivity_3(template.PROPERTY):
+    def value(self, temperature):
+        # use only one-liner to keep it parsable:
+        return ((4e-6*(temperature-273.15)**3-0.001*(temperature-273.15)**2+0.1404*(temperature-273.15)-0.3795)*1e-4)
+    def dvalue(self, temperature):
+        # use only one-liner to keep it parsable:
+        return ((4e-6*3*(temperature-273.15)**2-0.001*2*(temperature-273.15)+0.1404)*1e-4)
+    def dvaluenum(self,temperature):
+        return np.gradient(self.value(temperature),temperature)
+    def exprtk_value(self):
+        string = self._getcodeasstring("value", None)
+        string = self._convertpythontoexprtk(string)
+        return string
+    def exprtk_dvalue(self):
+        string = self._getcodeasstring("dvalue",None)
+        string = self._convertpythontoexprtk(string)
+        return string
