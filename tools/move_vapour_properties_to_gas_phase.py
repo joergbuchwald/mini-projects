@@ -59,14 +59,12 @@ New:
 
 def main(filename1, filename2):
     f = OGS(INPUT_FILE=filename1, PROJECT_FILE=filename2)
-    f.write_input()
-    f = OGS(INPUT_FILE=filename2, PROJECT_FILE=filename2)
     # add new phase
     media = f.tree.findall("./media/medium")
     if len(media) > 1:
         media_ids = [medium.attrib["id"] for medium in media]
     else:
-        media_ids ["0"]
+        media_ids = ["0"]
     for medium_id in media_ids:
         if len(media) > 1:
             phases_xpath = f"./media/medium[@id='{medium_id}']/phases"
@@ -84,7 +82,6 @@ def main(filename1, filename2):
                           "thermal_diffusion_enhancement_factor": "thermal_diffusion_enhancement_factor"}
         elems_tobedeleted = []
         for old_prop, new_prop in properties.items():
-            print(old_prop)
             xpath = f"{phases_xpath}/phase[type='AqueousLiquid']/properties/property"
             tmp1 = f.tree.findall(xpath)
             for t1 in tmp1:
